@@ -1,0 +1,13495 @@
+['project', '3']
+2
+['gutenberg', '4']
+2
+['s', '59']
+2
+['alice', '111']
+2
+['adventures', '4']
+2
+['in', '124']
+2
+['wonderland', '4']
+2
+['by', '19']
+2
+['lewis', '3']
+2
+['carroll', '3']
+2
+['this', '57']
+2
+['ebook', '4']
+2
+['is', '40']
+2
+['for', '65']
+2
+['the', '405']
+2
+['use', '9']
+2
+['of', '162']
+2
+['anyone', '1']
+2
+['anywhere', '1']
+2
+['at', '57']
+2
+['no', '37']
+2
+['cost', '1']
+2
+['and', '313']
+2
+['with', '52']
+2
+['almost', '5']
+2
+['restrictions', '1']
+2
+['whatsoever', '1']
+2
+['you', '99']
+2
+['may', '1']
+2
+['copy', '1']
+2
+['it', '204']
+2
+['give', '3']
+2
+['away', '9']
+2
+['or', '24']
+2
+['re', '5']
+2
+['under', '6']
+2
+['terms', '1']
+2
+['license', '1']
+2
+['included', '1']
+2
+['online', '1']
+2
+['www', '1']
+2
+['org', '1']
+2
+['title', '1']
+2
+['author', '1']
+2
+['posting', '1']
+2
+['date', '2']
+2
+['june', '1']
+2
+['release', '1']
+2
+['march', '1']
+2
+['last', '10']
+2
+['updated', '1']
+2
+['october', '1']
+2
+['language', '1']
+2
+['english', '6']
+2
+['character', '1']
+2
+['set', '5']
+2
+['encoding', '1']
+2
+['utf', '1']
+2
+['start', '1']
+2
+['millennium', '1']
+2
+['fulcrum', '1']
+2
+['edition', '1']
+2
+['chapter', '4']
+2
+['i', '204']
+2
+['down', '53']
+2
+['rabbit', '28']
+2
+['hole', '5']
+2
+['was', '138']
+2
+['beginning', '1']
+2
+['to', '262']
+2
+['get', '22']
+2
+['very', '46']
+2
+['tired', '6']
+2
+['sitting', '1']
+2
+['her', '89']
+2
+['sister', '2']
+2
+['on', '51']
+2
+['bank', '2']
+2
+['having', '5']
+2
+['nothing', '10']
+2
+['do', '36']
+2
+['once', '13']
+2
+['twice', '1']
+2
+['she', '246']
+2
+['had', '63']
+2
+['peeped', '1']
+2
+['into', '20']
+2
+['book', '6']
+2
+['reading', '1']
+2
+['but', '62']
+2
+['pictures', '4']
+2
+['conversations', '2']
+2
+['what', '38']
+2
+['a', '216']
+2
+['thought', '30']
+2
+['without', '7']
+2
+['so', '43']
+2
+['considering', '2']
+2
+['own', '4']
+2
+['mind', '5']
+2
+['as', '82']
+2
+['well', '13']
+2
+['could', '25']
+2
+['hot', '4']
+2
+['day', '4']
+2
+['made', '13']
+2
+['feel', '2']
+2
+['sleepy', '2']
+2
+['stupid', '2']
+2
+['whether', '2']
+2
+['pleasure', '1']
+2
+['making', '4']
+2
+['daisy', '1']
+2
+['chain', '1']
+2
+['would', '21']
+2
+['be', '59']
+2
+['worth', '2']
+2
+['trouble', '2']
+2
+['getting', '9']
+2
+['up', '38']
+2
+['picking', '1']
+2
+['daisies', '1']
+2
+['when', '27']
+2
+['suddenly', '7']
+2
+['white', '9']
+2
+['pink', '1']
+2
+['eyes', '8']
+2
+['ran', '9']
+2
+['close', '4']
+2
+['there', '33']
+2
+['remarkable', '2']
+2
+['that', '99']
+2
+['nor', '1']
+2
+['did', '16']
+2
+['think', '21']
+2
+['much', '15']
+2
+['out', '51']
+2
+['way', '30']
+2
+['hear', '4']
+2
+['say', '15']
+2
+['itself', '4']
+2
+['oh', '27']
+2
+['dear', '19']
+2
+['shall', '13']
+2
+['late', '4']
+2
+['over', '14']
+2
+['afterwards', '1']
+2
+['occurred', '1']
+2
+['ought', '5']
+2
+['have', '15']
+2
+['wondered', '1']
+2
+['time', '22']
+2
+['all', '57']
+2
+['seemed', '12']
+2
+['quite', '22']
+2
+['natural', '2']
+2
+['actually', '1']
+2
+['took', '8']
+2
+['watch', '2']
+2
+['its', '17']
+2
+['waistcoat', '2']
+2
+['pocket', '4']
+2
+['looked', '9']
+2
+['then', '30']
+2
+['hurried', '4']
+2
+['started', '2']
+2
+['feet', '14']
+2
+['flashed', '1']
+2
+['across', '2']
+2
+['never', '14']
+2
+['before', '11']
+2
+['seen', '5']
+2
+['either', '8']
+2
+['take', '6']
+2
+['burning', '1']
+2
+['curiosity', '1']
+2
+['field', '1']
+2
+['after', '15']
+2
+['fortunately', '1']
+2
+['just', '12']
+2
+['see', '22']
+2
+['pop', '1']
+2
+['large', '10']
+2
+['hedge', '2']
+2
+['another', '9']
+2
+['moment', '14']
+2
+['went', '25']
+2
+['how', '31']
+2
+['world', '3']
+2
+['again', '28']
+2
+['straight', '1']
+2
+['like', '29']
+2
+['tunnel', '1']
+2
+['some', '10']
+2
+['dipped', '1']
+2
+['not', '43']
+2
+['about', '36']
+2
+['stopping', '1']
+2
+['herself', '38']
+2
+['found', '18']
+2
+['falling', '2']
+2
+['deep', '3']
+2
+['fell', '5']
+2
+['slowly', '3']
+2
+['plenty', '1']
+2
+['look', '9']
+2
+['wonder', '15']
+2
+['going', '10']
+2
+['happen', '5']
+2
+['next', '10']
+2
+['first', '15']
+2
+['tried', '8']
+2
+['make', '9']
+2
+['coming', '6']
+2
+['too', '9']
+2
+['dark', '3']
+2
+['anything', '8']
+2
+['sides', '1']
+2
+['noticed', '4']
+2
+['they', '39']
+2
+['were', '21']
+2
+['filled', '2']
+2
+['cupboards', '2']
+2
+['shelves', '2']
+2
+['here', '26']
+2
+['saw', '3']
+2
+['maps', '1']
+2
+['hung', '1']
+2
+['upon', '9']
+2
+['pegs', '1']
+2
+['jar', '2']
+2
+['from', '7']
+2
+['one', '38']
+2
+['passed', '1']
+2
+['labelled', '1']
+2
+['orange', '1']
+2
+['marmalade', '1']
+2
+['great', '13']
+2
+['disappointment', '1']
+2
+['empty', '1']
+2
+['drop', '1']
+2
+['fear', '2']
+2
+['killing', '1']
+2
+['somebody', '3']
+2
+['managed', '2']
+2
+['put', '12']
+2
+['past', '1']
+2
+['such', '17']
+2
+['fall', '5']
+2
+['tumbling', '1']
+2
+['stairs', '2']
+2
+['brave', '1']
+2
+['ll', '39']
+2
+['me', '39']
+2
+['home', '4']
+2
+['why', '12']
+2
+['wouldn', '3']
+2
+['t', '50']
+2
+['even', '5']
+2
+['if', '37']
+2
+['off', '19']
+2
+['top', '2']
+2
+['house', '10']
+2
+['which', '16']
+2
+['likely', '3']
+2
+['true', '1']
+2
+['come', '15']
+2
+['an', '16']
+2
+['end', '3']
+2
+['many', '4']
+2
+['miles', '2']
+2
+['ve', '9']
+2
+['fallen', '4']
+2
+['said', '68']
+2
+['aloud', '2']
+2
+['must', '19']
+2
+['somewhere', '2']
+2
+['near', '5']
+2
+['centre', '1']
+2
+['earth', '2']
+2
+['let', '11']
+2
+['four', '5']
+2
+['thousand', '2']
+2
+['learnt', '1']
+2
+['several', '3']
+2
+['things', '12']
+2
+['sort', '10']
+2
+['lessons', '5']
+2
+['schoolroom', '1']
+2
+['though', '2']
+2
+['good', '11']
+2
+['opportunity', '3']
+2
+['showing', '1']
+2
+['knowledge', '2']
+2
+['listen', '3']
+2
+['still', '5']
+2
+['practice', '1']
+2
+['yes', '2']
+2
+['right', '8']
+2
+['distance', '4']
+2
+['latitude', '2']
+2
+['longitude', '2']
+2
+['got', '14']
+2
+['idea', '6']
+2
+['nice', '5']
+2
+['grand', '1']
+2
+['words', '9']
+2
+['presently', '2']
+2
+['began', '18']
+2
+['through', '9']
+2
+['funny', '2']
+2
+['seem', '4']
+2
+['among', '5']
+2
+['people', '5']
+2
+['walk', '3']
+2
+['their', '6']
+2
+['heads', '4']
+2
+['downward', '1']
+2
+['antipathies', '1']
+2
+['rather', '7']
+2
+['glad', '2']
+2
+['listening', '1']
+2
+['didn', '4']
+2
+['sound', '2']
+2
+['word', '1']
+2
+['ask', '4']
+2
+['them', '20']
+2
+['name', '3']
+2
+['country', '1']
+2
+['know', '24']
+2
+['please', '5']
+2
+['ma', '3']
+2
+['am', '9']
+2
+['new', '2']
+2
+['zealand', '1']
+2
+['australia', '1']
+2
+['curtsey', '1']
+2
+['spoke', '2']
+2
+['fancy', '4']
+2
+['curtseying', '1']
+2
+['air', '7']
+2
+['manage', '3']
+2
+['ignorant', '1']
+2
+['little', '60']
+2
+['girl', '2']
+2
+['asking', '2']
+2
+['perhaps', '4']
+2
+['written', '2']
+2
+['else', '4']
+2
+['soon', '18']
+2
+['talking', '7']
+2
+['dinah', '14']
+2
+['miss', '2']
+2
+['night', '3']
+2
+['should', '5']
+2
+['cat', '4']
+2
+['hope', '3']
+2
+['remember', '5']
+2
+['saucer', '1']
+2
+['milk', '1']
+2
+['tea', '1']
+2
+['my', '20']
+2
+['wish', '12']
+2
+['are', '12']
+2
+['mice', '4']
+2
+['m', '21']
+2
+['afraid', '5']
+2
+['might', '8']
+2
+['catch', '4']
+2
+['bat', '2']
+2
+['mouse', '42']
+2
+['cats', '11']
+2
+['eat', '12']
+2
+['bats', '4']
+2
+['saying', '8']
+2
+['dreamy', '1']
+2
+['sometimes', '2']
+2
+['couldn', '2']
+2
+['answer', '3']
+2
+['question', '7']
+2
+['matter', '2']
+2
+['felt', '7']
+2
+['dozing', '1']
+2
+['begun', '2']
+2
+['dream', '1']
+2
+['walking', '2']
+2
+['hand', '8']
+2
+['earnestly', '1']
+2
+['now', '25']
+2
+['tell', '12']
+2
+['truth', '1']
+2
+['ever', '12']
+2
+['thump', '2']
+2
+['came', '14']
+2
+['heap', '1']
+2
+['sticks', '1']
+2
+['dry', '7']
+2
+['leaves', '1']
+2
+['bit', '3']
+2
+['hurt', '2']
+2
+['jumped', '2']
+2
+['overhead', '1']
+2
+['long', '15']
+2
+['passage', '3']
+2
+['sight', '3']
+2
+['hurrying', '1']
+2
+['lost', '2']
+2
+['wind', '1']
+2
+['turned', '5']
+2
+['corner', '3']
+2
+['ears', '2']
+2
+['whiskers', '2']
+2
+['behind', '4']
+2
+['longer', '2']
+2
+['low', '6']
+2
+['hall', '8']
+2
+['lit', '1']
+2
+['row', '2']
+2
+['lamps', '1']
+2
+['hanging', '2']
+2
+['roof', '4']
+2
+['doors', '2']
+2
+['round', '15']
+2
+['locked', '1']
+2
+['been', '7']
+2
+['side', '4']
+2
+['other', '10']
+2
+['trying', '7']
+2
+['every', '4']
+2
+['door', '17']
+2
+['walked', '2']
+2
+['sadly', '2']
+2
+['middle', '4']
+2
+['wondering', '1']
+2
+['three', '3']
+2
+['legged', '1']
+2
+['table', '10']
+2
+['solid', '1']
+2
+['glass', '9']
+2
+['except', '1']
+2
+['tiny', '3']
+2
+['golden', '6']
+2
+['key', '8']
+2
+['belong', '1']
+2
+['alas', '4']
+2
+['locks', '1']
+2
+['small', '8']
+2
+['any', '17']
+2
+['rate', '5']
+2
+['open', '2']
+2
+['however', '9']
+2
+['second', '2']
+2
+['curtain', '1']
+2
+['fifteen', '1']
+2
+['inches', '3']
+2
+['high', '8']
+2
+['lock', '1']
+2
+['delight', '2']
+2
+['fitted', '1']
+2
+['opened', '3']
+2
+['led', '2']
+2
+['larger', '5']
+2
+['than', '7']
+2
+['rat', '1']
+2
+['knelt', '1']
+2
+['along', '4']
+2
+['loveliest', '1']
+2
+['garden', '8']
+2
+['longed', '1']
+2
+['wander', '1']
+2
+['those', '4']
+2
+['beds', '1']
+2
+['bright', '4']
+2
+['flowers', '1']
+2
+['cool', '1']
+2
+['fountains', '1']
+2
+['head', '12']
+2
+['doorway', '1']
+2
+['go', '19']
+2
+['poor', '14']
+2
+['shoulders', '1']
+2
+['shut', '3']
+2
+['telescope', '3']
+2
+['only', '13']
+2
+['knew', '3']
+2
+['begin', '2']
+2
+['happened', '6']
+2
+['lately', '1']
+2
+['few', '4']
+2
+['indeed', '8']
+2
+['really', '5']
+2
+['impossible', '1']
+2
+['waiting', '4']
+2
+['back', '12']
+2
+['half', '11']
+2
+['hoping', '2']
+2
+['find', '11']
+2
+['rules', '2']
+2
+['shutting', '2']
+2
+['telescopes', '1']
+2
+['bottle', '10']
+2
+['certainly', '2']
+2
+['neck', '2']
+2
+['paper', '1']
+2
+['label', '2']
+2
+['drink', '5']
+2
+['beautifully', '2']
+2
+['printed', '1']
+2
+['letters', '1']
+2
+['wise', '1']
+2
+['hurry', '5']
+2
+['marked', '5']
+2
+['poison', '3']
+2
+['read', '2']
+2
+['histories', '1']
+2
+['children', '4']
+2
+['who', '16']
+2
+['burnt', '1']
+2
+['eaten', '1']
+2
+['wild', '1']
+2
+['beasts', '1']
+2
+['unpleasant', '1']
+2
+['because', '1']
+2
+['simple', '1']
+2
+['friends', '1']
+2
+['taught', '1']
+2
+['red', '1']
+2
+['poker', '1']
+2
+['will', '11']
+2
+['burn', '2']
+2
+['hold', '6']
+2
+['cut', '1']
+2
+['your', '13']
+2
+['finger', '3']
+2
+['deeply', '1']
+2
+['knife', '1']
+2
+['usually', '2']
+2
+['bleeds', '1']
+2
+['forgotten', '2']
+2
+['certain', '3']
+2
+['disagree', '1']
+2
+['sooner', '2']
+2
+['later', '1']
+2
+['ventured', '1']
+2
+['taste', '2']
+2
+['finding', '2']
+2
+['fact', '2']
+2
+['mixed', '1']
+2
+['flavour', '1']
+2
+['cherry', '1']
+2
+['tart', '1']
+2
+['custard', '1']
+2
+['pine', '1']
+2
+['apple', '1']
+2
+['roast', '1']
+2
+['turkey', '1']
+2
+['toffee', '1']
+2
+['buttered', '1']
+2
+['toast', '1']
+2
+['finished', '3']
+2
+['curious', '4']
+2
+['feeling', '2']
+2
+['ten', '1']
+2
+['face', '4']
+2
+['brightened', '1']
+2
+['size', '5']
+2
+['lovely', '2']
+2
+['waited', '5']
+2
+['minutes', '3']
+2
+['shrink', '1']
+2
+['further', '1']
+2
+['nervous', '1']
+2
+['altogether', '3']
+2
+['candle', '3']
+2
+['flame', '1']
+2
+['blown', '1']
+2
+['thing', '19']
+2
+['while', '8']
+2
+['more', '17']
+2
+['decided', '1']
+2
+['possibly', '2']
+2
+['reach', '3']
+2
+['plainly', '1']
+2
+['best', '6']
+2
+['climb', '1']
+2
+['legs', '1']
+2
+['slippery', '1']
+2
+['sat', '6']
+2
+['cried', '10']
+2
+['crying', '2']
+2
+['sharply', '2']
+2
+['advise', '1']
+2
+['leave', '2']
+2
+['minute', '4']
+2
+['generally', '3']
+2
+['gave', '3']
+2
+['advice', '1']
+2
+['seldom', '1']
+2
+['followed', '1']
+2
+['scolded', '1']
+2
+['severely', '2']
+2
+['bring', '2']
+2
+['tears', '7']
+2
+['remembered', '3']
+2
+['box', '4']
+2
+['cheated', '1']
+2
+['game', '2']
+2
+['croquet', '1']
+2
+['playing', '1']
+2
+['against', '5']
+2
+['child', '2']
+2
+['fond', '2']
+2
+['pretending', '1']
+2
+['two', '8']
+2
+['pretend', '1']
+2
+['hardly', '4']
+2
+['enough', '8']
+2
+['left', '3']
+2
+['respectable', '1']
+2
+['person', '3']
+2
+['eye', '3']
+2
+['lying', '4']
+2
+['cake', '3']
+2
+['currants', '1']
+2
+['makes', '2']
+2
+['grow', '7']
+2
+['can', '18']
+2
+['smaller', '3']
+2
+['creep', '1']
+2
+['don', '12']
+2
+['care', '1']
+2
+['happens', '3']
+2
+['ate', '1']
+2
+['anxiously', '5']
+2
+['holding', '2']
+2
+['growing', '6']
+2
+['surprised', '4']
+2
+['remained', '1']
+2
+['same', '6']
+2
+['sure', '17']
+2
+['eats', '1']
+2
+['expecting', '2']
+2
+['dull', '1']
+2
+['life', '4']
+2
+['common', '1']
+2
+['work', '1']
+2
+['ii', '1']
+2
+['pool', '9']
+2
+['curiouser', '2']
+2
+['forgot', '2']
+2
+['speak', '5']
+2
+['opening', '1']
+2
+['largest', '1']
+2
+['bye', '1']
+2
+['far', '3']
+2
+['shoes', '1']
+2
+['stockings', '1']
+2
+['dears', '2']
+2
+['shan', '3']
+2
+['able', '1']
+2
+['deal', '5']
+2
+['myself', '1']
+2
+['kind', '2']
+2
+['won', '9']
+2
+['want', '2']
+2
+['pair', '5']
+2
+['boots', '1']
+2
+['christmas', '1']
+2
+['planning', '1']
+2
+['carrier', '1']
+2
+['sending', '2']
+2
+['presents', '1']
+2
+['odd', '1']
+2
+['directions', '1']
+2
+['foot', '4']
+2
+['esq', '1']
+2
+['hearthrug', '1']
+2
+['fender', '1']
+2
+['love', '1']
+2
+['nonsense', '2']
+2
+['struck', '1']
+2
+['nine', '2']
+2
+['hopeless', '1']
+2
+['cry', '2']
+2
+['ashamed', '1']
+2
+['yourself', '2']
+2
+['stop', '3']
+2
+['shedding', '1']
+2
+['gallons', '1']
+2
+['until', '1']
+2
+['reaching', '1']
+2
+['heard', '13']
+2
+['pattering', '3']
+2
+['hastily', '5']
+2
+['dried', '1']
+2
+['returning', '1']
+2
+['splendidly', '1']
+2
+['dressed', '1']
+2
+['kid', '5']
+2
+['gloves', '11']
+2
+['fan', '10']
+2
+['he', '13']
+2
+['trotting', '2']
+2
+['muttering', '2']
+2
+['himself', '1']
+2
+['duchess', '4']
+2
+['savage', '1']
+2
+['kept', '4']
+2
+['desperate', '1']
+2
+['ready', '5']
+2
+['help', '3']
+2
+['timid', '1']
+2
+['voice', '12']
+2
+['sir', '2']
+2
+['violently', '1']
+2
+['dropped', '3']
+2
+['skurried', '1']
+2
+['darkness', '1']
+2
+['hard', '5']
+2
+['fanning', '1']
+2
+['queer', '5']
+2
+['everything', '5']
+2
+['yesterday', '1']
+2
+['usual', '1']
+2
+['changed', '5']
+2
+['morning', '2']
+2
+['different', '1']
+2
+['ah', '2']
+2
+['puzzle', '1']
+2
+['thinking', '3']
+2
+['age', '2']
+2
+['ada', '1']
+2
+['hair', '2']
+2
+['goes', '3']
+2
+['ringlets', '2']
+2
+['mine', '2']
+2
+['doesn', '7']
+2
+['mabel', '4']
+2
+['sorts', '2']
+2
+['knows', '1']
+2
+['besides', '1']
+2
+['puzzling', '2']
+2
+['try', '6']
+2
+['used', '3']
+2
+['times', '4']
+2
+['five', '1']
+2
+['twelve', '1']
+2
+['six', '1']
+2
+['thirteen', '1']
+2
+['seven', '1']
+2
+['twenty', '1']
+2
+['multiplication', '1']
+2
+['signify', '1']
+2
+['geography', '1']
+2
+['london', '1']
+2
+['capital', '4']
+2
+['paris', '2']
+2
+['rome', '2']
+2
+['wrong', '1']
+2
+['doth', '2']
+2
+['crossed', '1']
+2
+['hands', '2']
+2
+['lap', '1']
+2
+['repeat', '1']
+2
+['sounded', '3']
+2
+['hoarse', '1']
+2
+['strange', '1']
+2
+['crocodile', '1']
+2
+['improve', '1']
+2
+['his', '9']
+2
+['shining', '1']
+2
+['tail', '4']
+2
+['pour', '1']
+2
+['waters', '1']
+2
+['nile', '1']
+2
+['scale', '1']
+2
+['cheerfully', '1']
+2
+['seems', '3']
+2
+['grin', '1']
+2
+['neatly', '2']
+2
+['spread', '3']
+2
+['claws', '1']
+2
+['welcome', '1']
+2
+['fishes', '1']
+2
+['gently', '1']
+2
+['smiling', '1']
+2
+['jaws', '1']
+2
+['live', '1']
+2
+['poky', '1']
+2
+['toys', '1']
+2
+['play', '2']
+2
+['learn', '3']
+2
+['stay', '4']
+2
+['putting', '1']
+2
+['being', '8']
+2
+['till', '7']
+2
+['sudden', '3']
+2
+['burst', '1']
+2
+['alone', '2']
+2
+['done', '2']
+2
+['measure', '1']
+2
+['nearly', '1']
+2
+['guess', '2']
+2
+['shrinking', '3']
+2
+['rapidly', '1']
+2
+['cause', '3']
+2
+['avoid', '1']
+2
+['narrow', '2']
+2
+['escape', '2']
+2
+['frightened', '3']
+2
+['change', '3']
+2
+['existence', '1']
+2
+['speed', '1']
+2
+['worse', '1']
+2
+['declare', '1']
+2
+['bad', '2']
+2
+['these', '2']
+2
+['slipped', '2']
+2
+['splash', '1']
+2
+['chin', '1']
+2
+['salt', '2']
+2
+['water', '3']
+2
+['somehow', '1']
+2
+['sea', '2']
+2
+['case', '3']
+2
+['railway', '2']
+2
+['seaside', '1']
+2
+['general', '2']
+2
+['conclusion', '1']
+2
+['wherever', '1']
+2
+['coast', '1']
+2
+['number', '2']
+2
+['bathing', '1']
+2
+['machines', '1']
+2
+['digging', '3']
+2
+['sand', '1']
+2
+['wooden', '1']
+2
+['spades', '1']
+2
+['lodging', '1']
+2
+['houses', '1']
+2
+['station', '1']
+2
+['wept', '1']
+2
+['hadn', '5']
+2
+['swam', '5']
+2
+['punished', '1']
+2
+['suppose', '3']
+2
+['drowned', '1']
+2
+['something', '8']
+2
+['splashing', '1']
+2
+['nearer', '1']
+2
+['walrus', '1']
+2
+['hippopotamus', '1']
+2
+['talk', '5']
+2
+['harm', '1']
+2
+['o', '3']
+2
+['swimming', '2']
+2
+['speaking', '2']
+2
+['brother', '1']
+2
+['latin', '1']
+2
+['grammar', '1']
+2
+['inquisitively', '1']
+2
+['wink', '1']
+2
+['understand', '2']
+2
+['daresay', '1']
+2
+['french', '2']
+2
+['william', '4']
+2
+['conqueror', '2']
+2
+['history', '3']
+2
+['clear', '1']
+2
+['notion', '1']
+2
+['ago', '1']
+2
+['ou', '1']
+2
+['est', '1']
+2
+['chatte', '1']
+2
+['sentence', '1']
+2
+['lesson', '3']
+2
+['leap', '1']
+2
+['quiver', '1']
+2
+['fright', '1']
+2
+['beg', '6']
+2
+['pardon', '4']
+2
+['animal', '2']
+2
+['feelings', '1']
+2
+['shrill', '1']
+2
+['passionate', '1']
+2
+['soothing', '1']
+2
+['tone', '8']
+2
+['angry', '3']
+2
+['yet', '5']
+2
+['show', '2']
+2
+['our', '6']
+2
+['d', '8']
+2
+['quiet', '1']
+2
+['lazily', '1']
+2
+['sits', '1']
+2
+['purring', '1']
+2
+['nicely', '1']
+2
+['fire', '1']
+2
+['licking', '1']
+2
+['paws', '2']
+2
+['washing', '1']
+2
+['soft', '1']
+2
+['nurse', '2']
+2
+['catching', '2']
+2
+['bristling', '1']
+2
+['offended', '5']
+2
+['we', '6']
+2
+['trembling', '3']
+2
+['subject', '2']
+2
+['family', '1']
+2
+['always', '5']
+2
+['hated', '1']
+2
+['nasty', '1']
+2
+['vulgar', '1']
+2
+['conversation', '2']
+2
+['dogs', '3']
+2
+['eagerly', '3']
+2
+['dog', '1']
+2
+['eyed', '1']
+2
+['terrier', '1']
+2
+['curly', '1']
+2
+['brown', '1']
+2
+['fetch', '5']
+2
+['throw', '1']
+2
+['sit', '2']
+2
+['dinner', '1']
+2
+['belongs', '1']
+2
+['farmer', '1']
+2
+['says', '3']
+2
+['useful', '2']
+2
+['hundred', '1']
+2
+['pounds', '1']
+2
+['kills', '1']
+2
+['rats', '1']
+2
+['sorrowful', '2']
+2
+['commotion', '1']
+2
+['called', '7']
+2
+['softly', '1']
+2
+['pale', '1']
+2
+['passion', '1']
+2
+['us', '4']
+2
+['shore', '2']
+2
+['hate', '2']
+2
+['crowded', '4']
+2
+['birds', '7']
+2
+['animals', '3']
+2
+['duck', '3']
+2
+['dodo', '13']
+2
+['lory', '7']
+2
+['eaglet', '3']
+2
+['creatures', '1']
+2
+['whole', '5']
+2
+['party', '5']
+2
+['iii', '1']
+2
+['caucus', '3']
+2
+['race', '6']
+2
+['tale', '3']
+2
+['looking', '8']
+2
+['assembled', '1']
+2
+['draggled', '1']
+2
+['feathers', '1']
+2
+['fur', '2']
+2
+['clinging', '1']
+2
+['dripping', '1']
+2
+['wet', '2']
+2
+['cross', '1']
+2
+['uncomfortable', '2']
+2
+['course', '6']
+2
+['consultation', '1']
+2
+['familiarly', '1']
+2
+['known', '1']
+2
+['argument', '1']
+2
+['sulky', '1']
+2
+['older', '2']
+2
+['better', '4']
+2
+['allow', '1']
+2
+['knowing', '2']
+2
+['old', '7']
+2
+['positively', '1']
+2
+['refused', '1']
+2
+['authority', '1']
+2
+['ring', '2']
+2
+['fixed', '1']
+2
+['cold', '1']
+2
+['ahem', '1']
+2
+['important', '1']
+2
+['driest', '1']
+2
+['silence', '6']
+2
+['whose', '1']
+2
+['favoured', '1']
+2
+['pope', '1']
+2
+['submitted', '1']
+2
+['wanted', '2']
+2
+['leaders', '1']
+2
+['accustomed', '1']
+2
+['usurpation', '1']
+2
+['conquest', '1']
+2
+['edwin', '2']
+2
+['morcar', '2']
+2
+['earls', '2']
+2
+['mercia', '2']
+2
+['northumbria', '2']
+2
+['ugh', '1']
+2
+['shiver', '1']
+2
+['frowning', '1']
+2
+['politely', '1']
+2
+['proceed', '1']
+2
+['declared', '1']
+2
+['him', '6']
+2
+['stigand', '1']
+2
+['patriotic', '1']
+2
+['archbishop', '2']
+2
+['canterbury', '1']
+2
+['advisable', '2']
+2
+['replied', '3']
+2
+['crossly', '1']
+2
+['means', '2']
+2
+['frog', '1']
+2
+['worm', '1']
+2
+['notice', '1']
+2
+['hurriedly', '1']
+2
+['edgar', '1']
+2
+['atheling', '1']
+2
+['meet', '2']
+2
+['offer', '1']
+2
+['crown', '1']
+2
+['conduct', '1']
+2
+['moderate', '1']
+2
+['insolence', '1']
+2
+['normans', '1']
+2
+['continued', '1']
+2
+['turning', '4']
+2
+['melancholy', '2']
+2
+['solemnly', '2']
+2
+['rising', '1']
+2
+['move', '1']
+2
+['meeting', '1']
+2
+['adjourn', '1']
+2
+['immediate', '1']
+2
+['adoption', '1']
+2
+['energetic', '1']
+2
+['remedies', '1']
+2
+['meaning', '1']
+2
+['believe', '2']
+2
+['bent', '1']
+2
+['hide', '1']
+2
+['smile', '1']
+2
+['tittered', '1']
+2
+['audibly', '1']
+2
+['paused', '1']
+2
+['inclined', '1']
+2
+['explain', '2']
+2
+['winter', '1']
+2
+['circle', '1']
+2
+['exact', '1']
+2
+['shape', '1']
+2
+['placed', '1']
+2
+['running', '3']
+2
+['liked', '2']
+2
+['easy', '1']
+2
+['hour', '1']
+2
+['panting', '2']
+2
+['has', '3']
+2
+['pressed', '2']
+2
+['forehead', '1']
+2
+['position', '1']
+2
+['shakespeare', '1']
+2
+['rest', '1']
+2
+['everybody', '1']
+2
+['prizes', '5']
+2
+['chorus', '3']
+2
+['voices', '3']
+2
+['asked', '1']
+2
+['pointing', '1']
+2
+['calling', '1']
+2
+['confused', '1']
+2
+['despair', '1']
+2
+['pulled', '1']
+2
+['comfits', '2']
+2
+['luckily', '2']
+2
+['handed', '1']
+2
+['exactly', '1']
+2
+['piece', '1']
+2
+['prize', '1']
+2
+['gravely', '1']
+2
+['thimble', '4']
+2
+['presented', '1']
+2
+['acceptance', '1']
+2
+['elegant', '1']
+2
+['short', '2']
+2
+['speech', '2']
+2
+['cheered', '1']
+2
+['absurd', '1']
+2
+['grave', '1']
+2
+['dare', '1']
+2
+['laugh', '1']
+2
+['simply', '2']
+2
+['bowed', '1']
+2
+['solemn', '1']
+2
+['caused', '2']
+2
+['noise', '1']
+2
+['confusion', '2']
+2
+['complained', '1']
+2
+['theirs', '1']
+2
+['ones', '1']
+2
+['choked', '1']
+2
+['patted', '1']
+2
+['begged', '1']
+2
+['promised', '1']
+2
+['c', '1']
+2
+['added', '2']
+2
+['whisper', '1']
+2
+['sad', '2']
+2
+['sighing', '1']
+2
+['call', '1']
+2
+['fury', '2']
+2
+['met', '1']
+2
+['both', '1']
+2
+['law', '1']
+2
+['prosecute', '1']
+2
+['denial', '1']
+2
+['trial', '2']
+2
+['cur', '1']
+2
+['jury', '2']
+2
+['judge', '2']
+2
+['wasting', '1']
+2
+['breath', '2']
+2
+['cunning', '1']
+2
+['condemn', '1']
+2
+['death', '1']
+2
+['attending', '1']
+2
+['humbly', '1']
+2
+['fifth', '1']
+2
+['bend', '1']
+2
+['angrily', '2']
+2
+['knot', '1']
+2
+['undo', '1']
+2
+['insult', '1']
+2
+['mean', '1']
+2
+['pleaded', '1']
+2
+['easily', '1']
+2
+['growled', '1']
+2
+['reply', '1']
+2
+['finish', '2']
+2
+['story', '2']
+2
+['others', '2']
+2
+['joined', '1']
+2
+['shook', '2']
+2
+['impatiently', '1']
+2
+['quicker', '1']
+2
+['pity', '1']
+2
+['sighed', '1']
+2
+['crab', '2']
+2
+['daughter', '1']
+2
+['lose', '1']
+2
+['temper', '1']
+2
+['tongue', '2']
+2
+['young', '1']
+2
+['snappishly', '1']
+2
+['patience', '1']
+2
+['oyster', '1']
+2
+['addressing', '1']
+2
+['nobody', '2']
+2
+['particular', '2']
+2
+['venture', '1']
+2
+['pet', '1']
+2
+['bird', '1']
+2
+['sensation', '1']
+2
+['magpie', '1']
+2
+['wrapping', '1']
+2
+['carefully', '1']
+2
+['remarking', '1']
+2
+['suit', '1']
+2
+['throat', '1']
+2
+['canary', '1']
+2
+['bed', '1']
+2
+['various', '1']
+2
+['pretexts', '1']
+2
+['moved', '1']
+2
+['mentioned', '1']
+2
+['lonely', '1']
+2
+['spirited', '1']
+2
+['footsteps', '1']
+2
+['iv', '1']
+2
+['sends', '1']
+2
+['bill', '14']
+2
+['executed', '1']
+2
+['ferrets', '2']
+2
+['where', '3']
+2
+['guessed', '1']
+2
+['naturedly', '1']
+2
+['hunting', '2']
+2
+['nowhere', '1']
+2
+['since', '1']
+2
+['swim', '1']
+2
+['vanished', '1']
+2
+['completely', '1']
+2
+['mary', '4']
+2
+['ann', '4']
+2
+['doing', '1']
+2
+['run', '2']
+2
+['quick', '1']
+2
+['direction', '1']
+2
+['pointed', '1']
+2
+['mistake', '1']
+2
+['housemaid', '1']
+2
+['finds', '1']
+2
+['neat', '1']
+2
+['brass', '1']
+2
+['plate', '1']
+2
+['w', '1']
+2
+['engraved', '1']
+2
+['knocking', '1']
+2
+['upstairs', '1']
+2
+['lest', '1']
+2
+['real', '1']
+2
+['messages', '2']
+2
+['fancying', '1']
+2
+['directly', '2']
+2
+['ordering', '1']
+2
+['tidy', '1']
+2
+['room', '7']
+2
+['window', '8']
+2
+['hoped', '1']
+2
+['pairs', '1']
+2
+['stood', '1']
+2
+['nevertheless', '1']
+2
+['uncorked', '1']
+2
+['lips', '1']
+2
+['interesting', '1']
+2
+['whenever', '1']
+2
+['does', '2']
+2
+['expected', '1']
+2
+['drunk', '2']
+2
+['pressing', '1']
+2
+['ceiling', '1']
+2
+['stoop', '1']
+2
+['save', '1']
+2
+['broken', '4']
+2
+['kneel', '1']
+2
+['floor', '2']
+2
+['effect', '2']
+2
+['elbow', '2']
+2
+['arm', '5']
+2
+['curled', '1']
+2
+['resource', '1']
+2
+['chimney', '6']
+2
+['whatever', '1']
+2
+['become', '1']
+2
+['magic', '1']
+2
+['full', '1']
+2
+['grew', '1']
+2
+['chance', '1']
+2
+['unhappy', '1']
+2
+['pleasanter', '1']
+2
+['wasn', '1']
+2
+['ordered', '1']
+2
+['rabbits', '1']
+2
+['gone', '1']
+2
+['fairy', '1']
+2
+['tales', '1']
+2
+['fancied', '2']
+2
+['write', '1']
+2
+['grown', '1']
+2
+['least', '1']
+2
+['comfort', '1']
+2
+['woman', '1']
+2
+['shouldn', '1']
+2
+['foolish', '1']
+2
+['answered', '1']
+2
+['books', '1']
+2
+['taking', '1']
+2
+['outside', '2']
+2
+['stopped', '1']
+2
+['trembled', '1']
+2
+['forgetting', '1']
+2
+['reason', '1']
+2
+['inwards', '1']
+2
+['attempt', '1']
+2
+['proved', '1']
+2
+['failure', '1']
+2
+['snatch', '2']
+2
+['shriek', '1']
+2
+['crash', '2']
+2
+['concluded', '1']
+2
+['possible', '1']
+2
+['cucumber', '2']
+2
+['frame', '1']
+2
+['pat', '3']
+2
+['apples', '2']
+2
+['yer', '4']
+2
+['honour', '4']
+2
+['sounds', '2']
+2
+['pronounced', '1']
+2
+['arrum', '1']
+2
+['goose', '1']
+2
+['fills', '1']
+2
+['business', '1']
+2
+['whispers', '1']
+2
+['coward', '1']
+2
+['shrieks', '1']
+2
+['frames', '1']
+2
+['pulling', '1']
+2
+['hearing', '1']
+2
+['rumbling', '1']
+2
+['cartwheels', '1']
+2
+['together', '2']
+2
+['ladder', '1']
+2
+['lad', '1']
+2
+['em', '2']
+2
+['tie', '1']
+2
+['rope', '1']
+2
+['bear', '1']
+2
+['loose', '1']
+2
+['slate', '1']
+2
+['below', '1']
+2
+['loud', '2']
+2
+['nay', '1']
+2
+['master', '1']
+2
+['shy', '1']
+2
+['place', '1']
+2
+['fireplace', '1']
+2
+['kick', '2']
+2
+['drew', '1']
+2
+['scratching', '1']
+2
+['scrambling', '1']
+2
+['above', '1']
+2
+['sharp', '2']
+2
+['brandy', '1']
+2
+['choke', '1']
+2
+['fellow', '2']
+2
+['feeble', '1']
+2
+['squeaking', '1']
+2
+['thank', '1']
+2
+['ye', '1']
+2
+['flustered', '1']
+2
+['comes', '1']
+2
+['jack', '1']
+2
+['sky', '1']
+2
+['rocket', '1']
+2
+['dead', '2']
+2
+['instantly', '1']
+2
+['sense', '1']
+2
+['moving', '1']
+2
+['barrowful', '2']
+2
+['doubt', '2']
+2
+['shower', '1']
+2
+['pebbles', '2']
+2
+['rattling', '1']
+2
+['hit', '1']
+2
+['shouted', '1']
+2
+['produced', '1']
+2
+['surprise', '1']
+2
+['cakes', '3']
+2
+['lay', '1']
+2
+['swallowed', '1']
+2
+['delighted', '1']
+2
+['crowd', '1']
+2
+['lizard', '1']
+2
+['held', '2']
+2
+['guinea', '1']
+2
+['pigs', '1']
+2
+['giving', '1']
+2
+['rush', '2']
+2
+['appeared', '2']
+2
+['safe', '1']
+2
+['thick', '1']
+2
+['wood', '2']
+2
+['wandered', '1']
+2
+['plan', '2']
+2
+['excellent', '1']
+2
+['arranged', '1']
+2
+['difficulty', '1']
+2
+['smallest', '1']
+2
+['peering', '1']
+2
+['trees', '1']
+2
+['bark', '2']
+2
+['enormous', '1']
+2
+['puppy', '7']
+2
+['feebly', '1']
+2
+['stretching', '1']
+2
+['paw', '1']
+2
+['touch', '1']
+2
+['coaxing', '2']
+2
+['whistle', '1']
+2
+['terribly', '1']
+2
+['hungry', '1']
+2
+['spite', '1']
+2
+['picked', '1']
+2
+['stick', '4']
+2
+['whereupon', '1']
+2
+['yelp', '1']
+2
+['rushed', '1']
+2
+['worry', '1']
+2
+['dodged', '1']
+2
+['thistle', '2']
+2
+['keep', '1']
+2
+['tumbled', '1']
+2
+['heels', '1']
+2
+['cart', '1']
+2
+['horse', '1']
+2
+['trampled', '1']
+2
+['series', '1']
+2
+['charges', '1']
+2
+['forwards', '1']
+2
+['each', '1']
+2
+['barking', '1']
+2
+['hoarsely', '1']
+2
+['mouth', '1']
+2
+['faint', '1']
+2
+['leant', '1']
+2
+['against', '3']
+2
+['a', '175']
+2
+['buttercup', '1']
+2
+['to', '193']
+2
+['rest', '3']
+2
+['herself', '22']
+2
+['and', '198']
+2
+['fanned', '1']
+2
+['with', '42']
+2
+['one', '26']
+2
+['of', '116']
+2
+['the', '398']
+2
+['leaves', '4']
+2
+['i', '183']
+2
+['should', '11']
+2
+['have', '25']
+2
+['liked', '3']
+2
+['teaching', '1']
+2
+['it', '195']
+2
+['tricks', '1']
+2
+['very', '39']
+2
+['much', '17']
+2
+['if', '24']
+2
+['d', '10']
+2
+['only', '17']
+2
+['been', '12']
+2
+['right', '14']
+2
+['size', '7']
+2
+['do', '31']
+2
+['oh', '9']
+2
+['dear', '2']
+2
+['nearly', '5']
+2
+['forgotten', '2']
+2
+['that', '80']
+2
+['ve', '16']
+2
+['got', '11']
+2
+['grow', '3']
+2
+['up', '21']
+2
+['again', '32']
+2
+['let', '5']
+2
+['me', '13']
+2
+['see', '21']
+2
+['how', '13']
+2
+['is', '30']
+2
+['be', '45']
+2
+['managed', '2']
+2
+['suppose', '9']
+2
+['ought', '4']
+2
+['eat', '6']
+2
+['or', '23']
+2
+['drink', '2']
+2
+['something', '6']
+2
+['other', '13']
+2
+['but', '50']
+2
+['great', '10']
+2
+['question', '7']
+2
+['what', '44']
+2
+['certainly', '8']
+2
+['was', '95']
+2
+['alice', '127']
+2
+['looked', '13']
+2
+['all', '33']
+2
+['round', '10']
+2
+['her', '47']
+2
+['at', '60']
+2
+['flowers', '1']
+2
+['blades', '1']
+2
+['grass', '2']
+2
+['she', '117']
+2
+['did', '20']
+2
+['not', '43']
+2
+['anything', '7']
+2
+['like', '28']
+2
+['thing', '16']
+2
+['under', '5']
+2
+['circumstances', '1']
+2
+['there', '30']
+2
+['large', '13']
+2
+['mushroom', '7']
+2
+['growing', '2']
+2
+['near', '4']
+2
+['about', '13']
+2
+['same', '12']
+2
+['height', '4']
+2
+['as', '81']
+2
+['when', '27']
+2
+['had', '37']
+2
+['on', '45']
+2
+['both', '6']
+2
+['sides', '3']
+2
+['behind', '3']
+2
+['occurred', '1']
+2
+['might', '12']
+2
+['well', '30']
+2
+['look', '3']
+2
+['top', '3']
+2
+['stretched', '2']
+2
+['tiptoe', '1']
+2
+['peeped', '2']
+2
+['over', '8']
+2
+['edge', '2']
+2
+['eyes', '9']
+2
+['immediately', '1']
+2
+['met', '1']
+2
+['those', '2']
+2
+['caterpillar', '27']
+2
+['sitting', '7']
+2
+['its', '26']
+2
+['arms', '4']
+2
+['folded', '2']
+2
+['quietly', '3']
+2
+['smoking', '2']
+2
+['long', '8']
+2
+['hookah', '5']
+2
+['taking', '1']
+2
+['smallest', '1']
+2
+['notice', '3']
+2
+['else', '2']
+2
+['chapter', '3']
+2
+['v', '1']
+2
+['advice', '1']
+2
+['from', '12']
+2
+['each', '3']
+2
+['for', '42']
+2
+['some', '22']
+2
+['time', '25']
+2
+['in', '89']
+2
+['silence', '4']
+2
+['last', '10']
+2
+['took', '11']
+2
+['out', '28']
+2
+['mouth', '5']
+2
+['addressed', '2']
+2
+['languid', '1']
+2
+['sleepy', '2']
+2
+['voice', '4']
+2
+['who', '12']
+2
+['are', '16']
+2
+['you', '137']
+2
+['said', '153']
+2
+['this', '33']
+2
+['an', '17']
+2
+['encouraging', '2']
+2
+['opening', '2']
+2
+['conversation', '5']
+2
+['replied', '13']
+2
+['rather', '8']
+2
+['shyly', '1']
+2
+['hardly', '5']
+2
+['know', '31']
+2
+['sir', '4']
+2
+['just', '20']
+2
+['present', '1']
+2
+['least', '5']
+2
+['morning', '2']
+2
+['think', '18']
+2
+['must', '7']
+2
+['changed', '3']
+2
+['several', '1']
+2
+['times', '1']
+2
+['since', '3']
+2
+['then', '25']
+2
+['mean', '6']
+2
+['by', '11']
+2
+['sternly', '1']
+2
+['explain', '2']
+2
+['yourself', '4']
+2
+['can', '20']
+2
+['t', '66']
+2
+['myself', '4']
+2
+['m', '28']
+2
+['afraid', '5']
+2
+['because', '7']
+2
+['don', '19']
+2
+['put', '4']
+2
+['more', '13']
+2
+['clearly', '1']
+2
+['politely', '3']
+2
+['understand', '3']
+2
+['begin', '3']
+2
+['being', '2']
+2
+['so', '44']
+2
+['many', '5']
+2
+['different', '3']
+2
+['sizes', '1']
+2
+['day', '11']
+2
+['confusing', '1']
+2
+['isn', '2']
+2
+['perhaps', '9']
+2
+['haven', '5']
+2
+['found', '5']
+2
+['yet', '9']
+2
+['turn', '4']
+2
+['into', '25']
+2
+['chrysalis', '1']
+2
+['will', '4']
+2
+['after', '9']
+2
+['butterfly', '1']
+2
+['ll', '8']
+2
+['feel', '2']
+2
+['little', '30']
+2
+['queer', '4']
+2
+['won', '5']
+2
+['bit', '9']
+2
+['your', '15']
+2
+['feelings', '1']
+2
+['may', '4']
+2
+['would', '17']
+2
+['contemptuously', '2']
+2
+['which', '23']
+2
+['brought', '2']
+2
+['them', '12']
+2
+['back', '8']
+2
+['beginning', '7']
+2
+['felt', '12']
+2
+['irritated', '1']
+2
+['s', '44']
+2
+['making', '3']
+2
+['such', '10']
+2
+['short', '1']
+2
+['remarks', '3']
+2
+['drew', '2']
+2
+['gravely', '1']
+2
+['tell', '8']
+2
+['first', '14']
+2
+['why', '13']
+2
+['here', '11']
+2
+['another', '7']
+2
+['puzzling', '2']
+2
+['could', '19']
+2
+['any', '8']
+2
+['good', '11']
+2
+['reason', '3']
+2
+['seemed', '9']
+2
+['unpleasant', '1']
+2
+['state', '1']
+2
+['mind', '5']
+2
+['turned', '5']
+2
+['away', '5']
+2
+['come', '10']
+2
+['called', '2']
+2
+['important', '1']
+2
+['say', '16']
+2
+['sounded', '1']
+2
+['promising', '1']
+2
+['came', '8']
+2
+['keep', '6']
+2
+['temper', '2']
+2
+['swallowing', '1']
+2
+['down', '17']
+2
+['anger', '1']
+2
+['no', '26']
+2
+['thought', '18']
+2
+['wait', '1']
+2
+['nothing', '10']
+2
+['worth', '1']
+2
+['hearing', '3']
+2
+['minutes', '4']
+2
+['puffed', '1']
+2
+['without', '10']
+2
+['speaking', '2']
+2
+['unfolded', '1']
+2
+['re', '17']
+2
+['am', '6']
+2
+['remember', '3']
+2
+['things', '8']
+2
+['used', '6']
+2
+['ten', '1']
+2
+['together', '4']
+2
+['tried', '8']
+2
+['doth', '1']
+2
+['busy', '1']
+2
+['bee', '1']
+2
+['melancholy', '1']
+2
+['repeat', '1']
+2
+['old', '5']
+2
+['father', '5']
+2
+['william', '3']
+2
+['hands', '4']
+2
+['began', '12']
+2
+['young', '2']
+2
+['man', '1']
+2
+['hair', '3']
+2
+['has', '2']
+2
+['become', '1']
+2
+['white', '1']
+2
+['incessantly', '1']
+2
+['stand', '2']
+2
+['head', '13']
+2
+['age', '1']
+2
+['my', '17']
+2
+['youth', '6']
+2
+['his', '27']
+2
+['son', '1']
+2
+['feared', '1']
+2
+['injure', '1']
+2
+['brain', '1']
+2
+['now', '14']
+2
+['perfectly', '3']
+2
+['sure', '5']
+2
+['none', '1']
+2
+['mentioned', '1']
+2
+['before', '7']
+2
+['grown', '2']
+2
+['most', '5']
+2
+['uncommonly', '1']
+2
+['fat', '1']
+2
+['somersault', '1']
+2
+['door', '9']
+2
+['pray', '2']
+2
+['sage', '1']
+2
+['he', '33']
+2
+['shook', '5']
+2
+['grey', '1']
+2
+['locks', '1']
+2
+['kept', '5']
+2
+['limbs', '1']
+2
+['supple', '1']
+2
+['use', '5']
+2
+['ointment', '1']
+2
+['shilling', '1']
+2
+['box', '1']
+2
+['allow', '1']
+2
+['sell', '1']
+2
+['couple', '1']
+2
+['jaws', '1']
+2
+['too', '4']
+2
+['weak', '1']
+2
+['tougher', '1']
+2
+['than', '9']
+2
+['suet', '1']
+2
+['finished', '3']
+2
+['goose', '1']
+2
+['bones', '1']
+2
+['beak', '1']
+2
+['manage', '2']
+2
+['law', '1']
+2
+['argued', '1']
+2
+['case', '2']
+2
+['wife', '1']
+2
+['muscular', '1']
+2
+['strength', '1']
+2
+['gave', '2']
+2
+['jaw', '1']
+2
+['lasted', '1']
+2
+['life', '3']
+2
+['eye', '1']
+2
+['steady', '1']
+2
+['ever', '3']
+2
+['balanced', '1']
+2
+['eel', '1']
+2
+['end', '6']
+2
+['nose', '6']
+2
+['made', '4']
+2
+['awfully', '1']
+2
+['clever', '1']
+2
+['answered', '1']
+2
+['three', '9']
+2
+['questions', '3']
+2
+['enough', '5']
+2
+['give', '2']
+2
+['airs', '1']
+2
+['listen', '2']
+2
+['stuff', '2']
+2
+['off', '13']
+2
+['kick', '1']
+2
+['stairs', '1']
+2
+['quite', '15']
+2
+['timidly', '5']
+2
+['words', '4']
+2
+['altered', '1']
+2
+['wrong', '2']
+2
+['decidedly', '2']
+2
+['speak', '5']
+2
+['want', '5']
+2
+['asked', '7']
+2
+['particular', '1']
+2
+['hastily', '3']
+2
+['doesn', '4']
+2
+['changing', '2']
+2
+['often', '2']
+2
+['never', '7']
+2
+['contradicted', '1']
+2
+['losing', '1']
+2
+['content', '1']
+2
+['larger', '1']
+2
+['wouldn', '7']
+2
+['inches', '3']
+2
+['wretched', '1']
+2
+['indeed', '3']
+2
+['angrily', '4']
+2
+['rearing', '1']
+2
+['itself', '7']
+2
+['upright', '1']
+2
+['spoke', '5']
+2
+['exactly', '4']
+2
+['high', '4']
+2
+['pleaded', '2']
+2
+['poor', '6']
+2
+['piteous', '1']
+2
+['tone', '13']
+2
+['wish', '5']
+2
+['creatures', '2']
+2
+['easily', '2']
+2
+['offended', '2']
+2
+['get', '15']
+2
+['waited', '2']
+2
+['patiently', '1']
+2
+['until', '2']
+2
+['chose', '1']
+2
+['minute', '10']
+2
+['two', '13']
+2
+['yawned', '1']
+2
+['once', '5']
+2
+['twice', '1']
+2
+['crawled', '1']
+2
+['merely', '1']
+2
+['remarking', '1']
+2
+['went', '19']
+2
+['side', '5']
+2
+['make', '7']
+2
+['taller', '2']
+2
+['shorter', '2']
+2
+['aloud', '3']
+2
+['moment', '6']
+2
+['sight', '2']
+2
+['remained', '2']
+2
+['looking', '10']
+2
+['thoughtfully', '2']
+2
+['trying', '3']
+2
+['were', '20']
+2
+['difficult', '1']
+2
+['however', '5']
+2
+['far', '3']
+2
+['they', '32']
+2
+['go', '11']
+2
+['broke', '2']
+2
+['hand', '2']
+2
+['nibbled', '2']
+2
+['try', '1']
+2
+['effect', '1']
+2
+['next', '6']
+2
+['violent', '2']
+2
+['blow', '1']
+2
+['underneath', '1']
+2
+['chin', '2']
+2
+['struck', '1']
+2
+['foot', '3']
+2
+['deal', '5']
+2
+['frightened', '1']
+2
+['sudden', '2']
+2
+['change', '4']
+2
+['lost', '1']
+2
+['shrinking', '1']
+2
+['rapidly', '1']
+2
+['set', '5']
+2
+['work', '4']
+2
+['pressed', '1']
+2
+['closely', '1']
+2
+['room', '5']
+2
+['open', '3']
+2
+['swallow', '1']
+2
+['morsel', '1']
+2
+['lefthand', '2']
+2
+['free', '2']
+2
+['delight', '1']
+2
+['alarm', '2']
+2
+['shoulders', '2']
+2
+['nowhere', '1']
+2
+['immense', '1']
+2
+['length', '1']
+2
+['neck', '4']
+2
+['rise', '1']
+2
+['stalk', '1']
+2
+['sea', '1']
+2
+['green', '3']
+2
+['lay', '1']
+2
+['below', '1']
+2
+['where', '5']
+2
+['moving', '2']
+2
+['result', '1']
+2
+['follow', '1']
+2
+['except', '1']
+2
+['shaking', '2']
+2
+['among', '5']
+2
+['distant', '1']
+2
+['chance', '1']
+2
+['getting', '6']
+2
+['delighted', '1']
+2
+['find', '2']
+2
+['bend', '1']
+2
+['direction', '4']
+2
+['serpent', '9']
+2
+['succeeded', '2']
+2
+['curving', '1']
+2
+['graceful', '1']
+2
+['zigzag', '1']
+2
+['going', '5']
+2
+['dive', '1']
+2
+['tops', '1']
+2
+['trees', '4']
+2
+['wandering', '1']
+2
+['sharp', '1']
+2
+['hiss', '1']
+2
+['draw', '7']
+2
+['hurry', '2']
+2
+['pigeon', '12']
+2
+['flown', '1']
+2
+['face', '5']
+2
+['beating', '2']
+2
+['violently', '3']
+2
+['wings', '1']
+2
+['screamed', '1']
+2
+['indignantly', '3']
+2
+['alone', '1']
+2
+['repeated', '4']
+2
+['subdued', '1']
+2
+['added', '7']
+2
+['kind', '2']
+2
+['sob', '1']
+2
+['every', '6']
+2
+['way', '11']
+2
+['seems', '1']
+2
+['suit', '2']
+2
+['idea', '4']
+2
+['talking', '6']
+2
+['roots', '1']
+2
+['banks', '1']
+2
+['hedges', '1']
+2
+['attending', '2']
+2
+['serpents', '3']
+2
+['pleasing', '1']
+2
+['puzzled', '3']
+2
+['saying', '5']
+2
+['till', '4']
+2
+['wasn', '5']
+2
+['trouble', '1']
+2
+['hatching', '1']
+2
+['eggs', '5']
+2
+['night', '2']
+2
+['wink', '1']
+2
+['sleep', '5']
+2
+['these', '3']
+2
+['weeks', '1']
+2
+['sorry', '1']
+2
+['annoyed', '1']
+2
+['meaning', '2']
+2
+['taken', '2']
+2
+['highest', '1']
+2
+['tree', '4']
+2
+['wood', '5']
+2
+['continued', '3']
+2
+['raising', '1']
+2
+['shriek', '1']
+2
+['thinking', '3']
+2
+['needs', '1']
+2
+['wriggling', '1']
+2
+['sky', '4']
+2
+['ugh', '1']
+2
+['invent', '1']
+2
+['girl', '2']
+2
+['doubtfully', '1']
+2
+['remembered', '2']
+2
+['number', '1']
+2
+['changes', '2']
+2
+['gone', '5']
+2
+['through', '1']
+2
+['likely', '1']
+2
+['story', '4']
+2
+['deepest', '1']
+2
+['contempt', '1']
+2
+['seen', '3']
+2
+['girls', '2']
+2
+['denying', '1']
+2
+['telling', '1']
+2
+['tasted', '2']
+2
+['egg', '1']
+2
+['truthful', '1']
+2
+['child', '4']
+2
+['believe', '2']
+2
+['new', '1']
+2
+['silent', '3']
+2
+['opportunity', '3']
+2
+['adding', '1']
+2
+['does', '4']
+2
+['matter', '3']
+2
+['whether', '4']
+2
+['matters', '1']
+2
+['happens', '2']
+2
+['shouldn', '3']
+2
+['yours', '1']
+2
+['raw', '1']
+2
+['sulky', '1']
+2
+['settled', '1']
+2
+['nest', '1']
+2
+['crouched', '1']
+2
+['entangled', '2']
+2
+['branches', '1']
+2
+['stop', '2']
+2
+['untwist', '1']
+2
+['while', '6']
+2
+['still', '2']
+2
+['held', '2']
+2
+['pieces', '3']
+2
+['carefully', '1']
+2
+['nibbling', '2']
+2
+['sometimes', '2']
+2
+['bringing', '1']
+2
+['usual', '2']
+2
+['strange', '1']
+2
+['few', '2']
+2
+['half', '4']
+2
+['plan', '1']
+2
+['done', '4']
+2
+['beautiful', '1']
+2
+['garden', '1']
+2
+['wonder', '2']
+2
+['suddenly', '4']
+2
+['upon', '4']
+2
+['place', '5']
+2
+['house', '8']
+2
+['four', '3']
+2
+['feet', '2']
+2
+['whoever', '1']
+2
+['lives', '3']
+2
+['frighten', '1']
+2
+['their', '7']
+2
+['wits', '1']
+2
+['righthand', '1']
+2
+['venture', '1']
+2
+['nine', '2']
+2
+['vi', '1']
+2
+['pig', '8']
+2
+['pepper', '3']
+2
+['stood', '1']
+2
+['wondering', '1']
+2
+['footman', '14']
+2
+['livery', '3']
+2
+['running', '1']
+2
+['considered', '2']
+2
+['him', '9']
+2
+['otherwise', '1']
+2
+['judging', '1']
+2
+['fish', '4']
+2
+['rapped', '1']
+2
+['loudly', '1']
+2
+['knuckles', '1']
+2
+['opened', '5']
+2
+['frog', '2']
+2
+['footmen', '1']
+2
+['noticed', '1']
+2
+['powdered', '1']
+2
+['curled', '1']
+2
+['heads', '1']
+2
+['curious', '2']
+2
+['crept', '1']
+2
+['producing', '1']
+2
+['arm', '2']
+2
+['letter', '1']
+2
+['himself', '1']
+2
+['handed', '1']
+2
+['solemn', '2']
+2
+['duchess', '14']
+2
+['invitation', '2']
+2
+['queen', '6']
+2
+['play', '4']
+2
+['croquet', '4']
+2
+['order', '1']
+2
+['bowed', '1']
+2
+['low', '1']
+2
+['curls', '1']
+2
+['laughed', '1']
+2
+['run', '1']
+2
+['fear', '1']
+2
+['ground', '1']
+2
+['staring', '1']
+2
+['stupidly', '1']
+2
+['knocked', '1']
+2
+['sort', '5']
+2
+['knocking', '2']
+2
+['reasons', '1']
+2
+['secondly', '1']
+2
+['noise', '2']
+2
+['inside', '2']
+2
+['possibly', '1']
+2
+['hear', '2']
+2
+['extraordinary', '2']
+2
+['within', '2']
+2
+['constant', '1']
+2
+['howling', '3']
+2
+['sneezing', '4']
+2
+['crash', '1']
+2
+['dish', '1']
+2
+['kettle', '1']
+2
+['broken', '1']
+2
+['please', '6']
+2
+['sense', '1']
+2
+['we', '6']
+2
+['between', '3']
+2
+['us', '3']
+2
+['instance', '2']
+2
+['knock', '1']
+2
+['uncivil', '1']
+2
+['help', '2']
+2
+['rate', '1']
+2
+['answer', '4']
+2
+['shall', '4']
+2
+['sit', '3']
+2
+['remarked', '6']
+2
+['tomorrow', '1']
+2
+['plate', '2']
+2
+['skimming', '1']
+2
+['straight', '1']
+2
+['grazed', '1']
+2
+['maybe', '1']
+2
+['happened', '1']
+2
+['louder', '1']
+2
+['doubt', '2']
+2
+['told', '2']
+2
+['really', '1']
+2
+['dreadful', '1']
+2
+['muttered', '2']
+2
+['argue', '1']
+2
+['drive', '1']
+2
+['crazy', '1']
+2
+['repeating', '1']
+2
+['remark', '6']
+2
+['variations', '1']
+2
+['days', '3']
+2
+['whistling', '1']
+2
+['desperately', '1']
+2
+['idiotic', '1']
+2
+['led', '1']
+2
+['kitchen', '2']
+2
+['full', '2']
+2
+['smoke', '1']
+2
+['legged', '1']
+2
+['stool', '1']
+2
+['middle', '1']
+2
+['nursing', '3']
+2
+['baby', '12']
+2
+['cook', '7']
+2
+['leaning', '1']
+2
+['fire', '3']
+2
+['stirring', '2']
+2
+['cauldron', '2']
+2
+['soup', '4']
+2
+['air', '2']
+2
+['even', '4']
+2
+['sneezed', '1']
+2
+['occasionally', '1']
+2
+['alternately', '1']
+2
+['pause', '1']
+2
+['sneeze', '1']
+2
+['cat', '22']
+2
+['hearth', '1']
+2
+['grinning', '1']
+2
+['ear', '4']
+2
+['manners', '1']
+2
+['grins', '1']
+2
+['cheshire', '4']
+2
+['word', '2']
+2
+['violence', '1']
+2
+['jumped', '2']
+2
+['saw', '4']
+2
+['courage', '1']
+2
+['didn', '4']
+2
+['cats', '2']
+2
+['always', '4']
+2
+['grinned', '3']
+2
+['fact', '2']
+2
+['grin', '4']
+2
+['em', '1']
+2
+['feeling', '1']
+2
+['pleased', '4']
+2
+['introduce', '1']
+2
+['subject', '2']
+2
+['fix', '1']
+2
+['throwing', '1']
+2
+['everything', '2']
+2
+['reach', '1']
+2
+['irons', '1']
+2
+['followed', '2']
+2
+['shower', '1']
+2
+['saucepans', '1']
+2
+['plates', '1']
+2
+['dishes', '1']
+2
+['hit', '1']
+2
+['already', '1']
+2
+['impossible', '2']
+2
+['blows', '1']
+2
+['hurt', '1']
+2
+['doing', '1']
+2
+['cried', '3']
+2
+['jumping', '1']
+2
+['agony', '1']
+2
+['terror', '1']
+2
+['goes', '3']
+2
+['precious', '1']
+2
+['unusually', '1']
+2
+['saucepan', '1']
+2
+['flew', '1']
+2
+['close', '1']
+2
+['carried', '2']
+2
+['everybody', '1']
+2
+['minded', '1']
+2
+['own', '1']
+2
+['business', '1']
+2
+['hoarse', '2']
+2
+['growl', '2']
+2
+['world', '2']
+2
+['faster', '1']
+2
+['advantage', '2']
+2
+['glad', '2']
+2
+['showing', '1']
+2
+['knowledge', '1']
+2
+['earth', '1']
+2
+['takes', '1']
+2
+['twenty', '2']
+2
+['hours', '2']
+2
+['axis', '1']
+2
+['axes', '1']
+2
+['chop', '1']
+2
+['glanced', '1']
+2
+['anxiously', '2']
+2
+['meant', '1']
+2
+['take', '6']
+2
+['hint', '2']
+2
+['busily', '1']
+2
+['listening', '1']
+2
+['twelve', '1']
+2
+['bother', '1']
+2
+['abide', '1']
+2
+['figures', '1']
+2
+['singing', '2']
+2
+['lullaby', '1']
+2
+['giving', '1']
+2
+['shake', '1']
+2
+['line', '1']
+2
+['roughly', '1']
+2
+['boy', '2']
+2
+['beat', '3']
+2
+['sneezes', '2']
+2
+['annoy', '1']
+2
+['knows', '1']
+2
+['teases', '1']
+2
+['chorus', '2']
+2
+['joined', '1']
+2
+['wow', '6']
+2
+['sang', '1']
+2
+['second', '1']
+2
+['verse', '2']
+2
+['song', '2']
+2
+['tossing', '2']
+2
+['howled', '1']
+2
+['severely', '1']
+2
+['thoroughly', '1']
+2
+['enjoy', '1']
+2
+['pleases', '1']
+2
+['nurse', '1']
+2
+['flinging', '1']
+2
+['ready', '1']
+2
+['hurried', '1']
+2
+['threw', '1']
+2
+['frying', '1']
+2
+['pan', '1']
+2
+['missed', '1']
+2
+['caught', '2']
+2
+['difficulty', '1']
+2
+['shaped', '2']
+2
+['creature', '3']
+2
+['legs', '1']
+2
+['directions', '1']
+2
+['star', '1']
+2
+['snorting', '1']
+2
+['steam', '1']
+2
+['engine', '1']
+2
+['doubling', '1']
+2
+['straightening', '1']
+2
+['altogether', '2']
+2
+['hold', '2']
+2
+['soon', '1']
+2
+['proper', '2']
+2
+['twist', '1']
+2
+['knot', '1']
+2
+['tight', '1']
+2
+['left', '2']
+2
+['prevent', '1']
+2
+['undoing', '1']
+2
+['kill', '1']
+2
+['murder', '1']
+2
+['leave', '1']
+2
+['loud', '1']
+2
+['grunted', '4']
+2
+['reply', '1']
+2
+['grunt', '1']
+2
+['expressing', '1']
+2
+['snout', '1']
+2
+['real', '1']
+2
+['also', '1']
+2
+['extremely', '1']
+2
+['small', '1']
+2
+['sobbing', '1']
+2
+['tears', '2']
+2
+['seriously', '1']
+2
+['sobbed', '1']
+2
+['home', '1']
+2
+['mistake', '1']
+2
+['neither', '1']
+2
+['nor', '2']
+2
+['less', '2']
+2
+['absurd', '1']
+2
+['carry', '1']
+2
+['further', '1']
+2
+['relieved', '1']
+2
+['trot', '1']
+2
+['dreadfully', '3']
+2
+['ugly', '1']
+2
+['makes', '1']
+2
+['handsome', '1']
+2
+['children', '1']
+2
+['knew', '3']
+2
+['pigs', '1']
+2
+['startled', '1']
+2
+['seeing', '1']
+2
+['bough', '1']
+2
+['yards', '1']
+2
+['natured', '1']
+2
+['claws', '1']
+2
+['teeth', '1']
+2
+['treated', '1']
+2
+['respect', '1']
+2
+['puss', '1']
+2
+['name', '1']
+2
+['wider', '1']
+2
+['depends', '1']
+2
+['care', '1']
+2
+['somewhere', '1']
+2
+['explanation', '1']
+2
+['walk', '1']
+2
+['denied', '1']
+2
+['people', '2']
+2
+['live', '5']
+2
+['waving', '2']
+2
+['paw', '2']
+2
+['hatter', '33']
+2
+['march', '27']
+2
+['hare', '25']
+2
+['visit', '1']
+2
+['either', '1']
+2
+['mad', '14']
+2
+['proved', '1']
+2
+['dog', '2']
+2
+['grant', '1']
+2
+['growls', '1']
+2
+['angry', '2']
+2
+['wags', '1']
+2
+['tail', '3']
+2
+['wag', '1']
+2
+['therefore', '1']
+2
+['call', '2']
+2
+['purring', '1']
+2
+['growling', '1']
+2
+['invited', '2']
+2
+['vanished', '3']
+2
+['surprised', '1']
+2
+['happening', '1']
+2
+['appeared', '1']
+2
+['bye', '1']
+2
+['became', '1']
+2
+['ask', '3']
+2
+['natural', '1']
+2
+['expecting', '1']
+2
+['appear', '1']
+2
+['walked', '2']
+2
+['hatters', '1']
+2
+['interesting', '1']
+2
+['raving', '2']
+2
+['branch', '1']
+2
+['fig', '1']
+2
+['appearing', '1']
+2
+['vanishing', '1']
+2
+['giddy', '1']
+2
+['slowly', '2']
+2
+['ending', '1']
+2
+['farther', '1']
+2
+['chimneys', '1']
+2
+['ears', '1']
+2
+['roof', '1']
+2
+['thatched', '1']
+2
+['fur', '1']
+2
+['nearer', '1']
+2
+['raised', '1']
+2
+['towards', '1']
+2
+['almost', '2']
+2
+['instead', '1']
+2
+['vii', '1']
+2
+['tea', '11']
+2
+['party', '2']
+2
+['table', '5']
+2
+['front', '1']
+2
+['having', '1']
+2
+['dormouse', '24']
+2
+['fast', '1']
+2
+['asleep', '5']
+2
+['using', '1']
+2
+['cushion', '1']
+2
+['resting', '1']
+2
+['elbows', '1']
+2
+['uncomfortable', '1']
+2
+['crowded', '1']
+2
+['corner', '1']
+2
+['coming', '1']
+2
+['plenty', '1']
+2
+['sat', '2']
+2
+['chair', '1']
+2
+['wine', '2']
+2
+['civil', '3']
+2
+['offer', '1']
+2
+['laid', '1']
+2
+['wants', '1']
+2
+['cutting', '1']
+2
+['curiosity', '2']
+2
+['speech', '1']
+2
+['learn', '2']
+2
+['personal', '2']
+2
+['severity', '1']
+2
+['rude', '1']
+2
+['wide', '1']
+2
+['raven', '1']
+2
+['writing', '2']
+2
+['desk', '1']
+2
+['fun', '1']
+2
+['begun', '1']
+2
+['asking', '2']
+2
+['riddles', '2']
+2
+['guess', '1']
+2
+['breathe', '2']
+2
+['dropped', '1']
+2
+['ravens', '1']
+2
+['desks', '1']
+2
+['break', '1']
+2
+['month', '2']
+2
+['turning', '2']
+2
+['watch', '4']
+2
+['pocket', '1']
+2
+['uneasily', '1']
+2
+['holding', '1']
+2
+['fourth', '1']
+2
+['sighed', '2']
+2
+['butter', '4']
+2
+['works', '1']
+2
+['best', '2']
+2
+['meekly', '1']
+2
+['yes', '3']
+2
+['crumbs', '1']
+2
+['grumbled', '1']
+2
+['bread', '2']
+2
+['knife', '1']
+2
+['gloomily', '1']
+2
+['dipped', '1']
+2
+['cup', '2']
+2
+['better', '3']
+2
+['shoulder', '1']
+2
+['funny', '1']
+2
+['tells', '2']
+2
+['o', '3']
+2
+['clock', '5']
+2
+['year', '2']
+2
+['course', '5']
+2
+['readily', '1']
+2
+['stays', '1']
+2
+['mine', '1']
+2
+['english', '1']
+2
+['poured', '1']
+2
+['hot', '1']
+2
+['impatiently', '1']
+2
+['guessed', '1']
+2
+['riddle', '1']
+2
+['slightest', '1']
+2
+['wearily', '1']
+2
+['waste', '1']
+2
+['answers', '1']
+2
+['talk', '1']
+2
+['wasting', '1']
+2
+['dare', '2']
+2
+['cautiously', '2']
+2
+['music', '1']
+2
+['ah', '1']
+2
+['accounts', '1']
+2
+['terms', '1']
+2
+['lessons', '1']
+2
+['whisper', '2']
+2
+['twinkling', '1']
+2
+['past', '2']
+2
+['dinner', '1']
+2
+['grand', '1']
+2
+['hungry', '1']
+2
+['mournfully', '1']
+2
+['quarrelled', '1']
+2
+['pointing', '1']
+2
+['spoon', '1']
+2
+['concert', '1']
+2
+['given', '1']
+2
+['hearts', '1']
+2
+['sing', '1']
+2
+['twinkle', '8']
+2
+['bat', '1']
+2
+['heard', '2']
+2
+['above', '1']
+2
+['fly', '1']
+2
+['tray', '1']
+2
+['pinch', '1']
+2
+['bawled', '1']
+2
+['murdering', '1']
+2
+['savage', '1']
+2
+['exclaimed', '1']
+2
+['mournful', '1']
+2
+['six', '1']
+2
+['bright', '1']
+2
+['sigh', '1']
+2
+['wash', '1']
+2
+['whiles', '1']
+2
+['ventured', '1']
+2
+['interrupted', '2']
+2
+['yawning', '2']
+2
+['tired', '1']
+2
+['vote', '1']
+2
+['lady', '1']
+2
+['alarmed', '1']
+2
+['proposal', '1']
+2
+['wake', '1']
+2
+['pinched', '1']
+2
+['feeble', '1']
+2
+['fellows', '1']
+2
+['quick', '1']
+2
+['sisters', '2']
+2
+['names', '1']
+2
+['elsie', '1']
+2
+['lacie', '1']
+2
+['tillie', '1']
+2
+['lived', '2']
+2
+['bottom', '3']
+2
+['interest', '1']
+2
+['eating', '1']
+2
+['drinking', '1']
+2
+['treacle', '6']
+2
+['couldn', '1']
+2
+['gently', '1']
+2
+['ill', '2']
+2
+['fancy', '1']
+2
+['ways', '1']
+2
+['living', '1']
+2
+['earnestly', '1']
+2
+['easy', '1']
+2
+['nobody', '1']
+2
+['opinion', '1']
+2
+['triumphantly', '1']
+2
+['helped', '1']
+2
+['sh', '2']
+2
+['sulkily', '1']
+2
+['finish', '1']
+2
+['humbly', '1']
+2
+['interrupt', '1']
+2
+['consented', '1']
+2
+['learning', '2']
+2
+['forgetting', '1']
+2
+['promise', '1']
+2
+['considering', '1']
+2
+['clean', '1']
+2
+['move', '1']
+2
+['moved', '2']
+2
+['unwillingly', '1']
+2
+['worse', '1']
+2
+['upset', '1']
+2
+['milk', '1']
+2
+['jug', '1']
+2
+['offend', '1']
+2
+['water', '2']
+2
+['eh', '1']
+2
+['stupid', '1']
+2
+['choosing', '1']
+2
+['confused', '1']
+2
+['interrupting', '1']
+2
+['rubbing', '1']
+2
+['manner', '1']
+2
+['begins', '1']
+2
+['the', '479']
+2
+['dormouse', '3']
+2
+['had', '44']
+2
+['closed', '1']
+2
+['its', '12']
+2
+['eyes', '7']
+2
+['by', '20']
+2
+['this', '23']
+2
+['time', '17']
+2
+['and', '235']
+2
+['was', '82']
+2
+['going', '12']
+2
+['off', '30']
+2
+['into', '14']
+2
+['a', '169']
+2
+['doze', '1']
+2
+['but', '36']
+2
+['on', '54']
+2
+['being', '4']
+2
+['pinched', '1']
+2
+['hatter', '2']
+2
+['it', '130']
+2
+['woke', '1']
+2
+['up', '25']
+2
+['again', '13']
+2
+['with', '59']
+2
+['little', '23']
+2
+['shriek', '1']
+2
+['went', '32']
+2
+['that', '85']
+2
+['begins', '2']
+2
+['an', '12']
+2
+['m', '6']
+2
+['such', '12']
+2
+['as', '60']
+2
+['mouse', '1']
+2
+['traps', '1']
+2
+['moon', '1']
+2
+['memory', '1']
+2
+['muchness', '3']
+2
+['you', '128']
+2
+['know', '20']
+2
+['say', '18']
+2
+['things', '8']
+2
+['are', '19']
+2
+['much', '14']
+2
+['of', '125']
+2
+['did', '17']
+2
+['ever', '5']
+2
+['see', '16']
+2
+['thing', '11']
+2
+['drawing', '1']
+2
+['really', '5']
+2
+['now', '15']
+2
+['ask', '3']
+2
+['me', '10']
+2
+['said', '150']
+2
+['alice', '122']
+2
+['very', '43']
+2
+['confused', '1']
+2
+['i', '100']
+2
+['don', '23']
+2
+['t', '68']
+2
+['think', '11']
+2
+['then', '31']
+2
+['shouldn', '1']
+2
+['talk', '7']
+2
+['piece', '2']
+2
+['rudeness', '1']
+2
+['more', '10']
+2
+['than', '6']
+2
+['could', '21']
+2
+['bear', '1']
+2
+['she', '121']
+2
+['got', '14']
+2
+['in', '98']
+2
+['great', '8']
+2
+['disgust', '1']
+2
+['walked', '6']
+2
+['fell', '1']
+2
+['asleep', '2']
+2
+['instantly', '3']
+2
+['neither', '1']
+2
+['others', '5']
+2
+['took', '4']
+2
+['least', '3']
+2
+['notice', '1']
+2
+['her', '67']
+2
+['though', '7']
+2
+['looked', '16']
+2
+['back', '15']
+2
+['once', '11']
+2
+['or', '21']
+2
+['twice', '3']
+2
+['half', '5']
+2
+['hoping', '1']
+2
+['they', '53']
+2
+['would', '28']
+2
+['call', '3']
+2
+['after', '11']
+2
+['last', '10']
+2
+['saw', '6']
+2
+['them', '32']
+2
+['were', '30']
+2
+['trying', '3']
+2
+['to', '181']
+2
+['put', '7']
+2
+['teapot', '1']
+2
+['at', '58']
+2
+['any', '10']
+2
+['rate', '1']
+2
+['ll', '5']
+2
+['never', '20']
+2
+['go', '15']
+2
+['there', '21']
+2
+['picked', '1']
+2
+['way', '10']
+2
+['through', '2']
+2
+['wood', '1']
+2
+['s', '70']
+2
+['stupidest', '1']
+2
+['tea', '1']
+2
+['party', '3']
+2
+['all', '57']
+2
+['my', '13']
+2
+['life', '4']
+2
+['just', '9']
+2
+['noticed', '3']
+2
+['one', '21']
+2
+['trees', '1']
+2
+['door', '2']
+2
+['leading', '1']
+2
+['right', '7']
+2
+['curious', '9']
+2
+['thought', '18']
+2
+['everything', '5']
+2
+['today', '1']
+2
+['may', '6']
+2
+['well', '12']
+2
+['found', '5']
+2
+['herself', '13']
+2
+['long', '4']
+2
+['hall', '1']
+2
+['close', '8']
+2
+['glass', '1']
+2
+['table', '1']
+2
+['manage', '2']
+2
+['better', '6']
+2
+['began', '17']
+2
+['taking', '1']
+2
+['golden', '1']
+2
+['key', '1']
+2
+['unlocking', '1']
+2
+['led', '1']
+2
+['garden', '7']
+2
+['work', '2']
+2
+['nibbling', '1']
+2
+['mushroom', '1']
+2
+['kept', '1']
+2
+['pocket', '2']
+2
+['till', '6']
+2
+['about', '32']
+2
+['foot', '2']
+2
+['high', '1']
+2
+['down', '17']
+2
+['passage', '1']
+2
+['beautiful', '7']
+2
+['among', '2']
+2
+['bright', '1']
+2
+['flower', '2']
+2
+['beds', '1']
+2
+['cool', '1']
+2
+['fountains', '1']
+2
+['chapter', '3']
+2
+['viii', '1']
+2
+['queen', '50']
+2
+['croquet', '4']
+2
+['ground', '7']
+2
+['large', '5']
+2
+['rose', '3']
+2
+['tree', '4']
+2
+['stood', '5']
+2
+['near', '3']
+2
+['entrance', '1']
+2
+['roses', '3']
+2
+['growing', '1']
+2
+['white', '5']
+2
+['three', '11']
+2
+['gardeners', '8']
+2
+['busily', '1']
+2
+['painting', '2']
+2
+['red', '2']
+2
+['nearer', '3']
+2
+['watch', '2']
+2
+['came', '14']
+2
+['heard', '13']
+2
+['look', '11']
+2
+['out', '19']
+2
+['five', '7']
+2
+['splashing', '1']
+2
+['paint', '1']
+2
+['over', '9']
+2
+['like', '25']
+2
+['couldn', '6']
+2
+['help', '3']
+2
+['sulky', '1']
+2
+['tone', '16']
+2
+['seven', '5']
+2
+['jogged', '1']
+2
+['elbow', '1']
+2
+['which', '3']
+2
+['always', '3']
+2
+['lay', '1']
+2
+['blame', '1']
+2
+['d', '8']
+2
+['not', '41']
+2
+['only', '14']
+2
+['yesterday', '2']
+2
+['deserved', '1']
+2
+['be', '28']
+2
+['beheaded', '3']
+2
+['what', '42']
+2
+['for', '30']
+2
+['who', '21']
+2
+['spoken', '1']
+2
+['first', '13']
+2
+['none', '1']
+2
+['your', '16']
+2
+['business', '4']
+2
+['two', '14']
+2
+['yes', '7']
+2
+['is', '35']
+2
+['his', '34']
+2
+['tell', '11']
+2
+['him', '12']
+2
+['bringing', '1']
+2
+['cook', '1']
+2
+['tulip', '1']
+2
+['roots', '1']
+2
+['instead', '1']
+2
+['onions', '1']
+2
+['flung', '1']
+2
+['brush', '1']
+2
+['begun', '1']
+2
+['unjust', '1']
+2
+['when', '18']
+2
+['eye', '2']
+2
+['chanced', '1']
+2
+['fall', '2']
+2
+['upon', '8']
+2
+['watching', '2']
+2
+['he', '39']
+2
+['checked', '3']
+2
+['himself', '2']
+2
+['suddenly', '2']
+2
+['round', '11']
+2
+['also', '1']
+2
+['bowed', '2']
+2
+['low', '6']
+2
+['timidly', '4']
+2
+['why', '11']
+2
+['those', '2']
+2
+['nothing', '6']
+2
+['voice', '20']
+2
+['fact', '2']
+2
+['miss', '2']
+2
+['here', '9']
+2
+['ought', '3']
+2
+['have', '29']
+2
+['been', '10']
+2
+['we', '16']
+2
+['mistake', '1']
+2
+['if', '24']
+2
+['find', '5']
+2
+['should', '7']
+2
+['our', '2']
+2
+['heads', '4']
+2
+['cut', '3']
+2
+['so', '50']
+2
+['re', '10']
+2
+['doing', '2']
+2
+['best', '2']
+2
+['afore', '1']
+2
+['comes', '1']
+2
+['moment', '8']
+2
+['anxiously', '4']
+2
+['looking', '6']
+2
+['across', '3']
+2
+['called', '5']
+2
+['threw', '1']
+2
+['themselves', '3']
+2
+['flat', '2']
+2
+['their', '23']
+2
+['faces', '4']
+2
+['sound', '2']
+2
+['many', '2']
+2
+['footsteps', '1']
+2
+['eager', '1']
+2
+['ten', '4']
+2
+['soldiers', '10']
+2
+['carrying', '2']
+2
+['clubs', '1']
+2
+['these', '6']
+2
+['shaped', '1']
+2
+['oblong', '1']
+2
+['hands', '3']
+2
+['feet', '2']
+2
+['corners', '1']
+2
+['next', '8']
+2
+['courtiers', '2']
+2
+['ornamented', '2']
+2
+['diamonds', '1']
+2
+['royal', '2']
+2
+['children', '4']
+2
+['dears', '1']
+2
+['jumping', '2']
+2
+['merrily', '1']
+2
+['along', '2']
+2
+['hand', '4']
+2
+['couples', '1']
+2
+['hearts', '4']
+2
+['guests', '2']
+2
+['mostly', '1']
+2
+['kings', '1']
+2
+['queens', '1']
+2
+['recognised', '1']
+2
+['rabbit', '7']
+2
+['talking', '3']
+2
+['hurried', '4']
+2
+['nervous', '2']
+2
+['manner', '1']
+2
+['smiling', '1']
+2
+['without', '7']
+2
+['noticing', '1']
+2
+['followed', '3']
+2
+['knave', '4']
+2
+['king', '15']
+2
+['crown', '1']
+2
+['crimson', '2']
+2
+['velvet', '1']
+2
+['cushion', '1']
+2
+['grand', '1']
+2
+['procession', '5']
+2
+['rather', '7']
+2
+['doubtful', '2']
+2
+['whether', '4']
+2
+['lie', '2']
+2
+['face', '4']
+2
+['remember', '3']
+2
+['having', '3']
+2
+['rule', '2']
+2
+['processions', '1']
+2
+['besides', '2']
+2
+['use', '4']
+2
+['people', '5']
+2
+['still', '4']
+2
+['where', '5']
+2
+['waited', '4']
+2
+['opposite', '1']
+2
+['stopped', '1']
+2
+['severely', '1']
+2
+['smiled', '2']
+2
+['reply', '2']
+2
+['idiot', '1']
+2
+['tossing', '1']
+2
+['head', '16']
+2
+['impatiently', '3']
+2
+['turning', '2']
+2
+['name', '2']
+2
+['child', '4']
+2
+['please', '5']
+2
+['majesty', '4']
+2
+['politely', '2']
+2
+['added', '5']
+2
+['pack', '2']
+2
+['cards', '1']
+2
+['needn', '2']
+2
+['afraid', '1']
+2
+['pointing', '1']
+2
+['lying', '3']
+2
+['rosetree', '1']
+2
+['pattern', '1']
+2
+['backs', '1']
+2
+['same', '5']
+2
+['rest', '4']
+2
+['own', '3']
+2
+['how', '16']
+2
+['surprised', '2']
+2
+['courage', '2']
+2
+['no', '19']
+2
+['mine', '5']
+2
+['turned', '3']
+2
+['fury', '1']
+2
+['glaring', '1']
+2
+['wild', '1']
+2
+['beast', '1']
+2
+['screamed', '3']
+2
+['nonsense', '3']
+2
+['loudly', '1']
+2
+['decidedly', '2']
+2
+['silent', '4']
+2
+['laid', '1']
+2
+['arm', '6']
+2
+['consider', '1']
+2
+['dear', '4']
+2
+['angrily', '2']
+2
+['away', '8']
+2
+['from', '10']
+2
+['turn', '6']
+2
+['carefully', '1']
+2
+['get', '4']
+2
+['shrill', '1']
+2
+['loud', '2']
+2
+['jumped', '1']
+2
+['bowing', '1']
+2
+['everybody', '4']
+2
+['else', '4']
+2
+['leave', '3']
+2
+['make', '7']
+2
+['giddy', '1']
+2
+['humble', '1']
+2
+['knee', '1']
+2
+['spoke', '7']
+2
+['meanwhile', '1']
+2
+['examining', '1']
+2
+['moved', '1']
+2
+['remaining', '1']
+2
+['behind', '4']
+2
+['execute', '1']
+2
+['unfortunate', '1']
+2
+['ran', '3']
+2
+['protection', '1']
+2
+['shan', '1']
+2
+['pot', '1']
+2
+['wandered', '1']
+2
+['minute', '7']
+2
+['quietly', '2']
+2
+['marched', '1']
+2
+['shouted', '7']
+2
+['gone', '6']
+2
+['can', '15']
+2
+['play', '2']
+2
+['question', '3']
+2
+['evidently', '1']
+2
+['meant', '1']
+2
+['come', '15']
+2
+['roared', '1']
+2
+['joined', '1']
+2
+['wondering', '5']
+2
+['happen', '3']
+2
+['fine', '2']
+2
+['day', '10']
+2
+['timid', '2']
+2
+['side', '6']
+2
+['walking', '3']
+2
+['peeping', '1']
+2
+['duchess', '22']
+2
+['hush', '3']
+2
+['shoulder', '3']
+2
+['raised', '1']
+2
+['tiptoe', '1']
+2
+['mouth', '2']
+2
+['ear', '2']
+2
+['whispered', '3']
+2
+['under', '6']
+2
+['sentence', '3']
+2
+['execution', '2']
+2
+['pity', '2']
+2
+['asked', '6']
+2
+['didn', '2']
+2
+['boxed', '1']
+2
+['ears', '2']
+2
+['gave', '3']
+2
+['scream', '1']
+2
+['laughter', '1']
+2
+['oh', '7']
+2
+['frightened', '2']
+2
+['will', '17']
+2
+['hear', '6']
+2
+['late', '1']
+2
+['places', '1']
+2
+['thunder', '1']
+2
+['running', '3']
+2
+['directions', '1']
+2
+['tumbling', '1']
+2
+['against', '1']
+2
+['each', '3']
+2
+['other', '9']
+2
+['however', '5']
+2
+['settled', '1']
+2
+['game', '11']
+2
+['seen', '6']
+2
+['ridges', '1']
+2
+['furrows', '1']
+2
+['balls', '1']
+2
+['live', '2']
+2
+['hedgehogs', '3']
+2
+['mallets', '1']
+2
+['flamingoes', '2']
+2
+['double', '1']
+2
+['stand', '2']
+2
+['arches', '4']
+2
+['chief', '1']
+2
+['difficulty', '2']
+2
+['managing', '1']
+2
+['flamingo', '5']
+2
+['succeeded', '1']
+2
+['getting', '4']
+2
+['body', '2']
+2
+['tucked', '3']
+2
+['comfortably', '1']
+2
+['enough', '4']
+2
+['legs', '1']
+2
+['hanging', '1']
+2
+['generally', '4']
+2
+['neck', '1']
+2
+['nicely', '1']
+2
+['straightened', '1']
+2
+['give', '4']
+2
+['hedgehog', '7']
+2
+['blow', '1']
+2
+['twist', '1']
+2
+['itself', '3']
+2
+['puzzled', '4']
+2
+['expression', '1']
+2
+['bursting', '1']
+2
+['laughing', '2']
+2
+['begin', '5']
+2
+['provoking', '1']
+2
+['unrolled', '1']
+2
+['act', '1']
+2
+['crawling', '1']
+2
+['ridge', '1']
+2
+['furrow', '1']
+2
+['wherever', '1']
+2
+['wanted', '2']
+2
+['send', '1']
+2
+['doubled', '1']
+2
+['parts', '1']
+2
+['soon', '3']
+2
+['conclusion', '1']
+2
+['difficult', '1']
+2
+['indeed', '5']
+2
+['players', '4']
+2
+['played', '1']
+2
+['waiting', '3']
+2
+['turns', '3']
+2
+['quarrelling', '2']
+2
+['while', '7']
+2
+['fighting', '1']
+2
+['short', '1']
+2
+['furious', '1']
+2
+['passion', '2']
+2
+['stamping', '2']
+2
+['shouting', '2']
+2
+['feel', '3']
+2
+['uneasy', '1']
+2
+['sure', '2']
+2
+['yet', '3']
+2
+['dispute', '2']
+2
+['knew', '5']
+2
+['might', '7']
+2
+['become', '1']
+2
+['dreadfully', '3']
+2
+['fond', '2']
+2
+['beheading', '1']
+2
+['wonder', '1']
+2
+['left', '4']
+2
+['alive', '2']
+2
+['some', '7']
+2
+['escape', '2']
+2
+['appearance', '1']
+2
+['air', '2']
+2
+['made', '6']
+2
+['grin', '1']
+2
+['cheshire', '3']
+2
+['cat', '11']
+2
+['shall', '6']
+2
+['somebody', '2']
+2
+['speak', '5']
+2
+['appeared', '5']
+2
+['nodded', '1']
+2
+['speaking', '1']
+2
+['another', '5']
+2
+['whole', '4']
+2
+['account', '1']
+2
+['feeling', '3']
+2
+['glad', '6']
+2
+['someone', '1']
+2
+['listen', '1']
+2
+['seemed', '3']
+2
+['sight', '3']
+2
+['fairly', '1']
+2
+['complaining', '1']
+2
+['quarrel', '1']
+2
+['oneself', '1']
+2
+['seem', '2']
+2
+['rules', '1']
+2
+['particular', '1']
+2
+['nobody', '3']
+2
+['attends', '1']
+2
+['ve', '12']
+2
+['idea', '3']
+2
+['confusing', '2']
+2
+['instance', '1']
+2
+['arch', '1']
+2
+['end', '3']
+2
+['croqueted', '1']
+2
+['coming', '2']
+2
+['do', '9']
+2
+['extremely', '1']
+2
+['listening', '1']
+2
+['likely', '1']
+2
+['win', '1']
+2
+['hardly', '2']
+2
+['worth', '1']
+2
+['finishing', '1']
+2
+['passed', '4']
+2
+['curiosity', '2']
+2
+['friend', '3']
+2
+['allow', '1']
+2
+['introduce', '1']
+2
+['kiss', '1']
+2
+['likes', '1']
+2
+['remarked', '3']
+2
+['impertinent', '1']
+2
+['read', '1']
+2
+['book', '1']
+2
+['must', '7']
+2
+['removed', '2']
+2
+['passing', '1']
+2
+['wish', '2']
+2
+['settling', '1']
+2
+['difficulties', '1']
+2
+['small', '1']
+2
+['even', '5']
+2
+['fetch', '2']
+2
+['executioner', '6']
+2
+['myself', '2']
+2
+['eagerly', '4']
+2
+['distance', '2']
+2
+['screaming', '1']
+2
+['already', '1']
+2
+['executed', '2']
+2
+['missed', '1']
+2
+['confusion', '1']
+2
+['search', '1']
+2
+['engaged', '1']
+2
+['fight', '2']
+2
+['excellent', '1']
+2
+['opportunity', '1']
+2
+['croqueting', '1']
+2
+['helpless', '1']
+2
+['sort', '3']
+2
+['fly', '2']
+2
+['caught', '1']
+2
+['brought', '1']
+2
+['both', '6']
+2
+['doesn', '3']
+2
+['matter', '1']
+2
+['conversation', '2']
+2
+['quite', '10']
+2
+['crowd', '1']
+2
+['collected', '1']
+2
+['between', '1']
+2
+['uncomfortable', '1']
+2
+['appealed', '1']
+2
+['settle', '1']
+2
+['repeated', '4']
+2
+['arguments', '1']
+2
+['hard', '1']
+2
+['exactly', '2']
+2
+['argument', '3']
+2
+['unless', '1']
+2
+['before', '8']
+2
+['wasn', '4']
+2
+['anything', '3']
+2
+['weren', '1']
+2
+['something', '4']
+2
+['done', '5']
+2
+['less', '2']
+2
+['remark', '4']
+2
+['grave', '1']
+2
+['anxious', '2']
+2
+['belongs', '1']
+2
+['prison', '1']
+2
+['arrow', '1']
+2
+['fading', '1']
+2
+['entirely', '1']
+2
+['disappeared', '1']
+2
+['wildly', '2']
+2
+['ix', '1']
+2
+['mock', '53']
+2
+['turtle', '56']
+2
+['story', '2']
+2
+['am', '1']
+2
+['old', '7']
+2
+['affectionately', '1']
+2
+['together', '3']
+2
+['pleasant', '1']
+2
+['temper', '2']
+2
+['perhaps', '3']
+2
+['pepper', '3']
+2
+['savage', '2']
+2
+['met', '1']
+2
+['kitchen', '2']
+2
+['hopeful', '1']
+2
+['won', '11']
+2
+['soup', '10']
+2
+['does', '3']
+2
+['maybe', '1']
+2
+['makes', '6']
+2
+['hot', '2']
+2
+['tempered', '2']
+2
+['pleased', '2']
+2
+['new', '2']
+2
+['kind', '3']
+2
+['vinegar', '1']
+2
+['sour', '1']
+2
+['camomile', '1']
+2
+['bitter', '1']
+2
+['barley', '1']
+2
+['sugar', '2']
+2
+['sweet', '1']
+2
+['wouldn', '2']
+2
+['stingy', '1']
+2
+['forgotten', '2']
+2
+['startled', '1']
+2
+['thinking', '3']
+2
+['forget', '1']
+2
+['moral', '8']
+2
+['bit', '1']
+2
+['hasn', '2']
+2
+['ventured', '2']
+2
+['tut', '2']
+2
+['squeezed', '1']
+2
+['closer', '1']
+2
+['keeping', '2']
+2
+['because', '5']
+2
+['ugly', '1']
+2
+['secondly', '1']
+2
+['height', '1']
+2
+['chin', '4']
+2
+['uncomfortably', '1']
+2
+['sharp', '3']
+2
+['rude', '1']
+2
+['bore', '1']
+2
+['tis', '5']
+2
+['love', '2']
+2
+['world', '1']
+2
+['minding', '1']
+2
+['ah', '2']
+2
+['means', '2']
+2
+['digging', '1']
+2
+['take', '6']
+2
+['care', '2']
+2
+['sense', '1']
+2
+['sounds', '2']
+2
+['finding', '1']
+2
+['morals', '1']
+2
+['dare', '2']
+2
+['waist', '1']
+2
+['pause', '1']
+2
+['reason', '5']
+2
+['try', '4']
+2
+['experiment', '2']
+2
+['bite', '2']
+2
+['cautiously', '1']
+2
+['replied', '11']
+2
+['tried', '2']
+2
+['true', '1']
+2
+['mustard', '3']
+2
+['birds', '1']
+2
+['feather', '1']
+2
+['flock', '1']
+2
+['isn', '1']
+2
+['bird', '1']
+2
+['usual', '1']
+2
+['clear', '1']
+2
+['putting', '1']
+2
+['mineral', '1']
+2
+['course', '10']
+2
+['ready', '2']
+2
+['agree', '2']
+2
+['yours', '2']
+2
+['exclaimed', '3']
+2
+['attended', '1']
+2
+['vegetable', '1']
+2
+['simply', '1']
+2
+['imagine', '1']
+2
+['yourself', '3']
+2
+['otherwise', '3']
+2
+['appear', '1']
+2
+['understand', '1']
+2
+['written', '1']
+2
+['follow', '1']
+2
+['chose', '1']
+2
+['pray', '1']
+2
+['trouble', '2']
+2
+['longer', '1']
+2
+['present', '2']
+2
+['cheap', '1']
+2
+['birthday', '1']
+2
+['presents', '1']
+2
+['venture', '1']
+2
+['dig', '1']
+2
+['sharply', '1']
+2
+['beginning', '2']
+2
+['worried', '1']
+2
+['pigs', '1']
+2
+['surprise', '3']
+2
+['died', '1']
+2
+['middle', '1']
+2
+['favourite', '1']
+2
+['word', '3']
+2
+['linked', '1']
+2
+['hers', '1']
+2
+['tremble', '1']
+2
+['front', '1']
+2
+['arms', '1']
+2
+['folded', '1']
+2
+['frowning', '1']
+2
+['thunderstorm', '1']
+2
+['weak', '1']
+2
+['fair', '1']
+2
+['warning', '1']
+2
+['either', '1']
+2
+['choice', '2']
+2
+['let', '3']
+2
+['too', '8']
+2
+['slowly', '3']
+2
+['taken', '2']
+2
+['advantage', '1']
+2
+['absence', '1']
+2
+['resting', '1']
+2
+['shade', '1']
+2
+['merely', '1']
+2
+['remarking', '1']
+2
+['delay', '1']
+2
+['cost', '1']
+2
+['lives', '1']
+2
+['playing', '1']
+2
+['whom', '1']
+2
+['sentenced', '1']
+2
+['custody', '2']
+2
+['hour', '1']
+2
+['except', '1']
+2
+['breath', '2']
+2
+['history', '3']
+2
+['company', '1']
+2
+['pardoned', '1']
+2
+['good', '2']
+2
+['felt', '3']
+2
+['unhappy', '1']
+2
+['number', '1']
+2
+['executions', '2']
+2
+['ordered', '3']
+2
+['gryphon', '48']
+2
+['fast', '2']
+2
+['sun', '1']
+2
+['picture', '1']
+2
+['lazy', '1']
+2
+['young', '2']
+2
+['lady', '2']
+2
+['leaving', '1']
+2
+['alone', '1']
+2
+['creature', '1']
+2
+['safe', '1']
+2
+['stay', '1']
+2
+['sat', '6']
+2
+['rubbed', '1']
+2
+['watched', '1']
+2
+['chuckled', '1']
+2
+['fun', '2']
+2
+['fancy', '2']
+2
+['executes', '1']
+2
+['says', '1']
+2
+['far', '6']
+2
+['sitting', '1']
+2
+['sad', '1']
+2
+['lonely', '1']
+2
+['ledge', '1']
+2
+['rock', '1']
+2
+['sighing', '2']
+2
+['heart', '1']
+2
+['break', '1']
+2
+['pitied', '1']
+2
+['deeply', '3']
+2
+['sorrow', '2']
+2
+['answered', '1']
+2
+['nearly', '2']
+2
+['words', '6']
+2
+['full', '2']
+2
+['tears', '2']
+2
+['wants', '1']
+2
+['deep', '3']
+2
+['hollow', '1']
+2
+['sit', '1']
+2
+['finished', '2']
+2
+['minutes', '1']
+2
+['finish', '1']
+2
+['patiently', '1']
+2
+['sigh', '3']
+2
+['real', '1']
+2
+['silence', '1']
+2
+['broken', '1']
+2
+['occasional', '1']
+2
+['exclamation', '1']
+2
+['hjckrrh', '1']
+2
+['constant', '1']
+2
+['heavy', '1']
+2
+['sobbing', '2']
+2
+['saying', '2']
+2
+['thank', '3']
+2
+['sir', '1']
+2
+['interesting', '3']
+2
+['calmly', '1']
+2
+['school', '6']
+2
+['sea', '11']
+2
+['master', '3']
+2
+['used', '4']
+2
+['tortoise', '3']
+2
+['taught', '3']
+2
+['us', '6']
+2
+['dull', '1']
+2
+['ashamed', '1']
+2
+['asking', '1']
+2
+['simple', '1']
+2
+['poor', '1']
+2
+['sink', '1']
+2
+['earth', '1']
+2
+['drive', '1']
+2
+['fellow', '2']
+2
+['mayn', '1']
+2
+['believe', '3']
+2
+['interrupted', '4']
+2
+['hold', '1']
+2
+['tongue', '1']
+2
+['educations', '1']
+2
+['every', '2']
+2
+['proud', '1']
+2
+['extras', '1']
+2
+['learned', '1']
+2
+['french', '2']
+2
+['music', '2']
+2
+['washing', '2']
+2
+['certainly', '1']
+2
+['indignantly', '1']
+2
+['relief', '1']
+2
+['ours', '1']
+2
+['bill', '1']
+2
+['extra', '1']
+2
+['living', '1']
+2
+['bottom', '1']
+2
+['afford', '1']
+2
+['learn', '2']
+2
+['regular', '1']
+2
+['inquired', '1']
+2
+['reeling', '1']
+2
+['writhing', '1']
+2
+['different', '5']
+2
+['branches', '1']
+2
+['arithmetic', '1']
+2
+['ambition', '1']
+2
+['distraction', '1']
+2
+['uglification', '2']
+2
+['derision', '1']
+2
+['lifted', '1']
+2
+['paws', '2']
+2
+['uglifying', '1']
+2
+['beautify', '1']
+2
+['suppose', '1']
+2
+['doubtfully', '1']
+2
+['prettier', '1']
+2
+['uglify', '1']
+2
+['simpleton', '1']
+2
+['encouraged', '1']
+2
+['questions', '1']
+2
+['mystery', '2']
+2
+['counting', '1']
+2
+['subjects', '1']
+2
+['flappers', '1']
+2
+['ancient', '1']
+2
+['modern', '1']
+2
+['seaography', '1']
+2
+['drawling', '3']
+2
+['conger', '1']
+2
+['eel', '1']
+2
+['week', '1']
+2
+['stretching', '1']
+2
+['fainting', '1']
+2
+['coils', '1']
+2
+['show', '1']
+2
+['stiff', '1']
+2
+['learnt', '1']
+2
+['hadn', '1']
+2
+['classics', '1']
+2
+['crab', '1']
+2
+['grief', '1']
+2
+['creatures', '4']
+2
+['hid', '1']
+2
+['hours', '2']
+2
+['lessons', '4']
+2
+['hurry', '1']
+2
+['change', '4']
+2
+['subject', '2']
+2
+['nine', '1']
+2
+['plan', '1']
+2
+['lessen', '1']
+2
+['eleventh', '1']
+2
+['holiday', '1']
+2
+['twelfth', '1']
+2
+['decided', '1']
+2
+['games', '1']
+2
+['x', '1']
+2
+['lobster', '7']
+2
+['quadrille', '4']
+2
+['sighed', '2']
+2
+['drew', '2']
+2
+['flapper', '1']
+2
+['sobs', '2']
+2
+['choked', '2']
+2
+['bone', '1']
+2
+['throat', '1']
+2
+['set', '2']
+2
+['shaking', '1']
+2
+['punching', '1']
+2
+['recovered', '1']
+2
+['cheeks', '1']
+2
+['lived', '1']
+2
+['haven', '1']
+2
+['introduced', '1']
+2
+['tasted', '1']
+2
+['hastily', '3']
+2
+['delightful', '2']
+2
+['dance', '13']
+2
+['form', '1']
+2
+['line', '1']
+2
+['shore', '2']
+2
+['lines', '1']
+2
+['cried', '3']
+2
+['seals', '1']
+2
+['turtles', '2']
+2
+['salmon', '1']
+2
+['cleared', '1']
+2
+['jelly', '1']
+2
+['fish', '4']
+2
+['takes', '1']
+2
+['advance', '3']
+2
+['partner', '1']
+2
+['partners', '1']
+2
+['lobsters', '7']
+2
+['retire', '1']
+2
+['order', '2']
+2
+['continued', '3']
+2
+['throw', '2']
+2
+['bound', '1']
+2
+['swim', '1']
+2
+['somersault', '1']
+2
+['capering', '1']
+2
+['yelled', '1']
+2
+['top', '1']
+2
+['land', '1']
+2
+['figure', '3']
+2
+['dropping', '1']
+2
+['mad', '1']
+2
+['sadly', '2']
+2
+['pretty', '1']
+2
+['sing', '5']
+2
+['solemnly', '2']
+2
+['dancing', '2']
+2
+['treading', '2']
+2
+['toes', '3']
+2
+['waving', '1']
+2
+['forepaws', '1']
+2
+['mark', '1']
+2
+['sang', '1']
+2
+['walk', '1']
+2
+['faster', '1']
+2
+['whiting', '8']
+2
+['snail', '3']
+2
+['porpoise', '4']
+2
+['tail', '1']
+2
+['shingle', '1']
+2
+['join', '9']
+2
+['notion', '1']
+2
+['askance', '1']
+2
+['thanked', '1']
+2
+['kindly', '2']
+2
+['matters', '1']
+2
+['scaly', '1']
+2
+['further', '1']
+2
+['england', '1']
+2
+['france', '1']
+2
+['pale', '1']
+2
+['beloved', '1']
+2
+['song', '4']
+2
+['often', '2']
+2
+['dinn', '2']
+2
+['thoughtfully', '2']
+2
+['tails', '3']
+2
+['mouths', '4']
+2
+['crumbs', '3']
+2
+['wrong', '2']
+2
+['wash', '1']
+2
+['yawned', '1']
+2
+['shut', '1']
+2
+['thrown', '1']
+2
+['boots', '3']
+2
+['shoes', '4']
+2
+['thoroughly', '1']
+2
+['mean', '3']
+2
+['shiny', '1']
+2
+['considered', '1']
+2
+['answer', '1']
+2
+['blacking', '1']
+2
+['soles', '1']
+2
+['eels', '1']
+2
+['shrimp', '1']
+2
+['told', '2']
+2
+['whose', '1']
+2
+['thoughts', '1']
+2
+['keep', '1']
+2
+['want', '1']
+2
+['obliged', '1']
+2
+['wise', '1']
+2
+['anywhere', '1']
+2
+['journey', '1']
+2
+['purpose', '1']
+2
+['offended', '2']
+2
+['adventures', '4']
+2
+['morning', '1']
+2
+['person', '1']
+2
+['explain', '3']
+2
+['impatient', '1']
+2
+['explanations', '1']
+2
+['dreadful', '1']
+2
+['telling', '1']
+2
+['opened', '1']
+2
+['wide', '1']
+2
+['gained', '1']
+2
+['listeners', '1']
+2
+['perfectly', '1']
+2
+['quiet', '1']
+2
+['part', '1']
+2
+['repeating', '2']
+2
+['father', '1']
+2
+['william', '1']
+2
+['caterpillar', '1']
+2
+['repeat', '4']
+2
+['authority', '1']
+2
+['sluggard', '1']
+2
+['queer', '1']
+2
+['declare', '1']
+2
+['baked', '1']
+2
+['brown', '1']
+2
+['hair', '1']
+2
+['duck', '1']
+2
+['eyelids', '1']
+2
+['nose', '2']
+2
+['trims', '1']
+2
+['belt', '1']
+2
+['buttons', '1']
+2
+['later', '2']
+2
+['editions', '2']
+2
+['follows', '2']
+2
+['sands', '1']
+2
+['dry', '1']
+2
+['gay', '1']
+2
+['lark', '1']
+2
+['contemptuous', '1']
+2
+['tones', '1']
+2
+['shark', '1']
+2
+['tide', '1']
+2
+['rises', '1']
+2
+['sharks', '1']
+2
+['around', '1']
+2
+['has', '1']
+2
+['tremulous', '1']
+2
+['uncommon', '1']
+2
+['natural', '1']
+2
+['explained', '1']
+2
+['verse', '2']
+2
+['persisted', '1']
+2
+['position', '1']
+2
+['longed', '1']
+2
+['disobey', '1']
+2
+['trembling', '1']
+2
+['marked', '1']
+2
+['owl', '3']
+2
+['panther', '3']
+2
+['sharing', '1']
+2
+['pie', '3']
+2
+['crust', '1']
+2
+['gravy', '1']
+2
+['meat', '1']
+2
+['dish', '2']
+2
+['share', '1']
+2
+['treat', '1']
+2
+['boon', '1']
+2
+['permitted', '1']
+2
+['spoon', '1']
+2
+['received', '1']
+2
+['knife', '1']
+2
+['fork', '1']
+2
+['growl', '1']
+2
+['concluded', '1']
+2
+['banquet', '1']
+2
+['stuff', '1']
+2
+['most', '1']
+2
+['hm', '1']
+2
+['accounting', '1']
+2
+['tastes', '1']
+2
+['sometimes', '1']
+2
+['rich', '1']
+2
+['green', '1']
+2
+['tureen', '1']
+2
+['dainties', '1']
+2
+['stoop', '1']
+2
+['evening', '3']
+2
+['beau', '2']
+2
+['ootiful', '2']
+2
+['soo', '3']
+2
+['oop', '3']
+2
+['e', '2']
+2
+['cares', '1']
+2
+['pennyworth', '2']
+2
+['only', '8']
+2
+['of', '228']
+2
+['beautiful', '5']
+2
+['soup', '4']
+2
+['beau', '2']
+2
+['ootiful', '2']
+2
+['soo', '4']
+2
+['oop', '4']
+2
+['the', '536']
+2
+['e', '27']
+2
+['evening', '2']
+2
+['beauti', '1']
+2
+['ful', '1']
+2
+['chorus', '1']
+2
+['again', '10']
+2
+['cried', '4']
+2
+['gryphon', '7']
+2
+['and', '194']
+2
+['mock', '3']
+2
+['turtle', '3']
+2
+['had', '34']
+2
+['just', '11']
+2
+['begun', '3']
+2
+['to', '173']
+2
+['repeat', '1']
+2
+['it', '81']
+2
+['when', '8']
+2
+['a', '130']
+2
+['cry', '1']
+2
+['trial', '8']
+2
+['s', '46']
+2
+['beginning', '5']
+2
+['was', '43']
+2
+['heard', '2']
+2
+['in', '120']
+2
+['distance', '2']
+2
+['come', '7']
+2
+['on', '54']
+2
+['taking', '2']
+2
+['alice', '43']
+2
+['by', '28']
+2
+['hand', '7']
+2
+['hurried', '2']
+2
+['off', '11']
+2
+['without', '10']
+2
+['waiting', '2']
+2
+['for', '42']
+2
+['end', '8']
+2
+['song', '1']
+2
+['what', '18']
+2
+['is', '30']
+2
+['panted', '1']
+2
+['as', '51']
+2
+['she', '69']
+2
+['ran', '4']
+2
+['but', '27']
+2
+['answered', '1']
+2
+['faster', '1']
+2
+['while', '5']
+2
+['more', '10']
+2
+['faintly', '1']
+2
+['came', '4']
+2
+['carried', '2']
+2
+['breeze', '1']
+2
+['that', '66']
+2
+['followed', '2']
+2
+['them', '24']
+2
+['melancholy', '3']
+2
+['words', '2']
+2
+['chapter', '2']
+2
+['xi', '1']
+2
+['who', '17']
+2
+['stole', '2']
+2
+['tarts', '7']
+2
+['king', '48']
+2
+['queen', '19']
+2
+['hearts', '3']
+2
+['were', '14']
+2
+['seated', '1']
+2
+['their', '16']
+2
+['throne', '1']
+2
+['they', '31']
+2
+['arrived', '1']
+2
+['with', '75']
+2
+['great', '8']
+2
+['crowd', '2']
+2
+['assembled', '1']
+2
+['about', '21']
+2
+['all', '53']
+2
+['sorts', '1']
+2
+['little', '15']
+2
+['birds', '2']
+2
+['beasts', '1']
+2
+['well', '8']
+2
+['whole', '4']
+2
+['pack', '3']
+2
+['cards', '2']
+2
+['knave', '5']
+2
+['standing', '1']
+2
+['before', '14']
+2
+['chains', '1']
+2
+['soldier', '1']
+2
+['each', '2']
+2
+['side', '2']
+2
+['guard', '1']
+2
+['him', '16']
+2
+['near', '3']
+2
+['white', '15']
+2
+['rabbit', '16']
+2
+['trumpet', '3']
+2
+['one', '21']
+2
+['scroll', '2']
+2
+['parchment', '2']
+2
+['other', '22']
+2
+['very', '17']
+2
+['middle', '2']
+2
+['court', '18']
+2
+['table', '2']
+2
+['large', '5']
+2
+['dish', '1']
+2
+['upon', '7']
+2
+['looked', '7']
+2
+['so', '15']
+2
+['good', '3']
+2
+['made', '7']
+2
+['quite', '8']
+2
+['hungry', '1']
+2
+['look', '6']
+2
+['at', '52']
+2
+['i', '58']
+2
+['wish', '3']
+2
+['d', '4']
+2
+['get', '5']
+2
+['done', '4']
+2
+['thought', '8']
+2
+['round', '5']
+2
+['refreshments', '1']
+2
+['there', '17']
+2
+['seemed', '3']
+2
+['be', '35']
+2
+['no', '18']
+2
+['chance', '2']
+2
+['this', '68']
+2
+['began', '11']
+2
+['looking', '8']
+2
+['everything', '2']
+2
+['her', '45']
+2
+['pass', '1']
+2
+['away', '6']
+2
+['time', '7']
+2
+['never', '7']
+2
+['been', '9']
+2
+['justice', '1']
+2
+['read', '11']
+2
+['books', '1']
+2
+['pleased', '1']
+2
+['find', '3']
+2
+['knew', '4']
+2
+['name', '5']
+2
+['nearly', '5']
+2
+['judge', '2']
+2
+['said', '91']
+2
+['herself', '10']
+2
+['because', '3']
+2
+['his', '26']
+2
+['wig', '2']
+2
+['way', '7']
+2
+['he', '43']
+2
+['wore', '1']
+2
+['crown', '1']
+2
+['over', '9']
+2
+['frontispiece', '1']
+2
+['if', '31']
+2
+['you', '117']
+2
+['want', '1']
+2
+['see', '11']
+2
+['how', '12']
+2
+['did', '10']
+2
+['not', '39']
+2
+['comfortable', '1']
+2
+['certainly', '3']
+2
+['becoming', '1']
+2
+['jury', '20']
+2
+['box', '5']
+2
+['those', '3']
+2
+['twelve', '2']
+2
+['creatures', '3']
+2
+['obliged', '2']
+2
+['say', '2']
+2
+['some', '13']
+2
+['animals', '1']
+2
+['suppose', '1']
+2
+['are', '26']
+2
+['jurors', '4']
+2
+['last', '4']
+2
+['word', '5']
+2
+['two', '5']
+2
+['or', '87']
+2
+['three', '5']
+2
+['times', '1']
+2
+['being', '5']
+2
+['rather', '3']
+2
+['proud', '1']
+2
+['rightly', '1']
+2
+['too', '5']
+2
+['few', '4']
+2
+['girls', '1']
+2
+['age', '1']
+2
+['meaning', '5']
+2
+['however', '2']
+2
+['men', '1']
+2
+['would', '17']
+2
+['have', '16']
+2
+['writing', '7']
+2
+['busily', '2']
+2
+['slates', '8']
+2
+['doing', '1']
+2
+['whispered', '2']
+2
+['can', '20']
+2
+['t', '34']
+2
+['anything', '4']
+2
+['put', '8']
+2
+['down', '15']
+2
+['yet', '8']
+2
+['re', '8']
+2
+['putting', '1']
+2
+['names', '1']
+2
+['reply', '1']
+2
+['fear', '1']
+2
+['should', '6']
+2
+['forget', '1']
+2
+['stupid', '3']
+2
+['things', '5']
+2
+['loud', '1']
+2
+['indignant', '1']
+2
+['voice', '12']
+2
+['stopped', '1']
+2
+['hastily', '5']
+2
+['out', '20']
+2
+['silence', '3']
+2
+['spectacles', '3']
+2
+['anxiously', '3']
+2
+['make', '7']
+2
+['talking', '1']
+2
+['could', '13']
+2
+['shoulders', '1']
+2
+['even', '7']
+2
+['didn', '4']
+2
+['know', '13']
+2
+['spell', '1']
+2
+['ask', '1']
+2
+['neighbour', '1']
+2
+['tell', '1']
+2
+['nice', '1']
+2
+['muddle', '1']
+2
+['ll', '5']
+2
+['pencil', '2']
+2
+['squeaked', '1']
+2
+['course', '6']
+2
+['stand', '2']
+2
+['went', '7']
+2
+['got', '6']
+2
+['behind', '2']
+2
+['soon', '3']
+2
+['found', '7']
+2
+['an', '16']
+2
+['opportunity', '2']
+2
+['quickly', '2']
+2
+['poor', '6']
+2
+['juror', '1']
+2
+['bill', '2']
+2
+['lizard', '5']
+2
+['become', '2']
+2
+['after', '8']
+2
+['hunting', '1']
+2
+['write', '5']
+2
+['finger', '2']
+2
+['rest', '2']
+2
+['day', '4']
+2
+['use', '13']
+2
+['left', '5']
+2
+['mark', '2']
+2
+['slate', '3']
+2
+['herald', '1']
+2
+['accusation', '1']
+2
+['blew', '2']
+2
+['blasts', '2']
+2
+['then', '8']
+2
+['unrolled', '1']
+2
+['follows', '1']
+2
+['summer', '2']
+2
+['took', '1']
+2
+['consider', '3']
+2
+['your', '27']
+2
+['verdict', '4']
+2
+['interrupted', '3']
+2
+['deal', '2']
+2
+['call', '3']
+2
+['first', '9']
+2
+['witness', '10']
+2
+['called', '1']
+2
+['hatter', '21']
+2
+['teacup', '3']
+2
+['piece', '3']
+2
+['bread', '5']
+2
+['butter', '5']
+2
+['beg', '2']
+2
+['pardon', '2']
+2
+['majesty', '8']
+2
+['bringing', '1']
+2
+['these', '6']
+2
+['hadn', '2']
+2
+['finished', '4']
+2
+['my', '8']
+2
+['tea', '6']
+2
+['sent', '3']
+2
+['ought', '2']
+2
+['begin', '3']
+2
+['march', '7']
+2
+['hare', '6']
+2
+['into', '8']
+2
+['arm', '2']
+2
+['dormouse', '13']
+2
+['fourteenth', '1']
+2
+['think', '3']
+2
+['fifteenth', '1']
+2
+['sixteenth', '1']
+2
+['added', '9']
+2
+['eagerly', '1']
+2
+['wrote', '3']
+2
+['dates', '1']
+2
+['up', '19']
+2
+['reduced', '1']
+2
+['answer', '1']
+2
+['shillings', '1']
+2
+['pence', '1']
+2
+['take', '4']
+2
+['hat', '1']
+2
+['isn', '4']
+2
+['mine', '2']
+2
+['stolen', '1']
+2
+['exclaimed', '2']
+2
+['turning', '4']
+2
+['instantly', '1']
+2
+['memorandum', '1']
+2
+['fact', '2']
+2
+['keep', '5']
+2
+['sell', '1']
+2
+['explanation', '3']
+2
+['ve', '7']
+2
+['none', '2']
+2
+['own', '2']
+2
+['m', '8']
+2
+['here', '5']
+2
+['staring', '2']
+2
+['turned', '3']
+2
+['pale', '2']
+2
+['fidgeted', '1']
+2
+['give', '7']
+2
+['evidence', '7']
+2
+['don', '7']
+2
+['nervous', '2']
+2
+['executed', '3']
+2
+['spot', '1']
+2
+['seem', '2']
+2
+['encourage', '1']
+2
+['kept', '3']
+2
+['shifting', '1']
+2
+['from', '22']
+2
+['foot', '1']
+2
+['uneasily', '1']
+2
+['confusion', '2']
+2
+['bit', '3']
+2
+['instead', '1']
+2
+['moment', '3']
+2
+['felt', '1']
+2
+['curious', '4']
+2
+['sensation', '1']
+2
+['which', '14']
+2
+['puzzled', '2']
+2
+['until', '2']
+2
+['grow', '3']
+2
+['larger', '1']
+2
+['leave', '3']
+2
+['second', '3']
+2
+['thoughts', '1']
+2
+['decided', '1']
+2
+['remain', '2']
+2
+['where', '5']
+2
+['long', '6']
+2
+['room', '1']
+2
+['wouldn', '1']
+2
+['squeeze', '1']
+2
+['sitting', '1']
+2
+['next', '6']
+2
+['hardly', '1']
+2
+['breathe', '1']
+2
+['help', '4']
+2
+['meekly', '1']
+2
+['growing', '2']
+2
+['right', '7']
+2
+['talk', '1']
+2
+['nonsense', '2']
+2
+['boldly', '1']
+2
+['yes', '1']
+2
+['reasonable', '2']
+2
+['pace', '1']
+2
+['ridiculous', '1']
+2
+['fashion', '2']
+2
+['sulkily', '1']
+2
+['crossed', '2']
+2
+['officers', '4']
+2
+['bring', '1']
+2
+['me', '6']
+2
+['list', '3']
+2
+['singers', '2']
+2
+['concert', '1']
+2
+['wretched', '1']
+2
+['trembled', '1']
+2
+['shook', '2']
+2
+['both', '3']
+2
+['shoes', '2']
+2
+['repeated', '2']
+2
+['angrily', '1']
+2
+['whether', '1']
+2
+['man', '4']
+2
+['trembling', '2']
+2
+['above', '1']
+2
+['week', '2']
+2
+['getting', '3']
+2
+['thin', '1']
+2
+['twinkling', '3']
+2
+['replied', '2']
+2
+['begins', '1']
+2
+['sharply', '1']
+2
+['do', '22']
+2
+['dunce', '1']
+2
+['go', '5']
+2
+['most', '5']
+2
+['twinkled', '1']
+2
+['hurry', '3']
+2
+['deny', '2']
+2
+['denies', '1']
+2
+['part', '5']
+2
+['any', '41']
+2
+['rate', '2']
+2
+['denied', '1']
+2
+['nothing', '8']
+2
+['fast', '1']
+2
+['asleep', '1']
+2
+['continued', '2']
+2
+['cut', '1']
+2
+['asked', '3']
+2
+['remember', '3']
+2
+['must', '21']
+2
+['remarked', '1']
+2
+['miserable', '2']
+2
+['dropped', '1']
+2
+['knee', '4']
+2
+['speaker', '1']
+2
+['guinea', '5']
+2
+['pigs', '3']
+2
+['cheered', '2']
+2
+['immediately', '2']
+2
+['suppressed', '4']
+2
+['hard', '2']
+2
+['will', '8']
+2
+['explain', '3']
+2
+['canvas', '1']
+2
+['bag', '1']
+2
+['tied', '1']
+2
+['mouth', '2']
+2
+['strings', '1']
+2
+['slipped', '1']
+2
+['pig', '3']
+2
+['head', '9']
+2
+['sat', '3']
+2
+['glad', '1']
+2
+['seen', '1']
+2
+['often', '2']
+2
+['newspapers', '1']
+2
+['trials', '1']
+2
+['attempts', '1']
+2
+['applause', '1']
+2
+['understood', '1']
+2
+['meant', '3']
+2
+['till', '4']
+2
+['now', '6']
+2
+['may', '17']
+2
+['lower', '1']
+2
+['floor', '1']
+2
+['sit', '2']
+2
+['we', '15']
+2
+['shall', '4']
+2
+['better', '1']
+2
+['finish', '1']
+2
+['anxious', '1']
+2
+['reading', '3']
+2
+['hurriedly', '1']
+2
+['outside', '5']
+2
+['sight', '2']
+2
+['officer', '1']
+2
+['door', '2']
+2
+['duchess', '2']
+2
+['cook', '5']
+2
+['pepper', '2']
+2
+['guessed', '1']
+2
+['people', '4']
+2
+['sneezing', '2']
+2
+['once', '5']
+2
+['shan', '2']
+2
+['low', '2']
+2
+['cross', '2']
+2
+['examine', '2']
+2
+['air', '4']
+2
+['folding', '1']
+2
+['arms', '1']
+2
+['frowning', '2']
+2
+['eyes', '5']
+2
+['deep', '1']
+2
+['mostly', '1']
+2
+['treacle', '1']
+2
+['sleepy', '1']
+2
+['collar', '1']
+2
+['shrieked', '1']
+2
+['behead', '1']
+2
+['turn', '1']
+2
+['suppress', '1']
+2
+['pinch', '1']
+2
+['whiskers', '1']
+2
+['minutes', '3']
+2
+['settled', '1']
+2
+['disappeared', '1']
+2
+['mind', '1']
+2
+['relief', '1']
+2
+['undertone', '2']
+2
+['really', '2']
+2
+['dear', '4']
+2
+['makes', '3']
+2
+['forehead', '1']
+2
+['ache', '1']
+2
+['watched', '1']
+2
+['fumbled', '1']
+2
+['feeling', '1']
+2
+['like', '3']
+2
+['haven', '2']
+2
+['much', '6']
+2
+['imagine', '1']
+2
+['surprise', '1']
+2
+['top', '2']
+2
+['shrill', '3']
+2
+['xii', '1']
+2
+['forgetting', '1']
+2
+['flurry', '1']
+2
+['grown', '4']
+2
+['jumped', '1']
+2
+['such', '8']
+2
+['tipped', '1']
+2
+['edge', '1']
+2
+['skirt', '1']
+2
+['upsetting', '1']
+2
+['jurymen', '4']
+2
+['heads', '1']
+2
+['below', '4']
+2
+['lay', '1']
+2
+['sprawling', '1']
+2
+['reminding', '1']
+2
+['globe', '1']
+2
+['goldfish', '2']
+2
+['accidentally', '1']
+2
+['upset', '2']
+2
+['oh', '2']
+2
+['tone', '3']
+2
+['dismay', '1']
+2
+['picking', '1']
+2
+['accident', '2']
+2
+['running', '1']
+2
+['vague', '1']
+2
+['sort', '2']
+2
+['idea', '2']
+2
+['collected', '1']
+2
+['back', '4']
+2
+['die', '1']
+2
+['cannot', '5']
+2
+['proceed', '1']
+2
+['grave', '1']
+2
+['proper', '1']
+2
+['places', '1']
+2
+['emphasis', '1']
+2
+['saw', '1']
+2
+['haste', '1']
+2
+['downwards', '1']
+2
+['thing', '3']
+2
+['waving', '2']
+2
+['its', '8']
+2
+['tail', '1']
+2
+['unable', '1']
+2
+['move', '1']
+2
+['signifies', '1']
+2
+['recovered', '1']
+2
+['shock', '1']
+2
+['pencils', '1']
+2
+['handed', '1']
+2
+['set', '11']
+2
+['work', '46']
+2
+['diligently', '1']
+2
+['history', '1']
+2
+['except', '4']
+2
+['overcome', '1']
+2
+['open', '2']
+2
+['gazing', '1']
+2
+['roof', '1']
+2
+['business', '3']
+2
+['whatever', '2']
+2
+['persisted', '1']
+2
+['important', '6']
+2
+['unimportant', '5']
+2
+['means', '4']
+2
+['respectful', '1']
+2
+['making', '1']
+2
+['faces', '1']
+2
+['spoke', '3']
+2
+['himself', '2']
+2
+['trying', '1']
+2
+['sounded', '1']
+2
+['best', '2']
+2
+['enough', '1']
+2
+['doesn', '2']
+2
+['matter', '3']
+2
+['note', '2']
+2
+['book', '4']
+2
+['cackled', '1']
+2
+['rule', '3']
+2
+['forty', '1']
+2
+['persons', '1']
+2
+['than', '4']
+2
+['mile', '2']
+2
+['high', '3']
+2
+['everybody', '2']
+2
+['miles', '1']
+2
+['besides', '1']
+2
+['regular', '1']
+2
+['invented', '1']
+2
+['oldest', '1']
+2
+['number', '4']
+2
+['shut', '1']
+2
+['please', '6']
+2
+['jumping', '1']
+2
+['paper', '4']
+2
+['has', '3']
+2
+['picked', '1']
+2
+['opened', '1']
+2
+['seems', '1']
+2
+['letter', '3']
+2
+['written', '6']
+2
+['prisoner', '2']
+2
+['somebody', '2']
+2
+['unless', '5']
+2
+['nobody', '2']
+2
+['usual', '1']
+2
+['directed', '2']
+2
+['unfolded', '1']
+2
+['verses', '4']
+2
+['handwriting', '1']
+2
+['another', '1']
+2
+['queerest', '1']
+2
+['imitated', '1']
+2
+['else', '2']
+2
+['brightened', '1']
+2
+['prove', '1']
+2
+['signed', '2']
+2
+['sign', '1']
+2
+['worse', '1']
+2
+['mischief', '1']
+2
+['honest', '1']
+2
+['general', '4']
+2
+['clapping', '1']
+2
+['hands', '3']
+2
+['clever', '1']
+2
+['proves', '2']
+2
+['guilt', '1']
+2
+['why', '4']
+2
+['gravely', '1']
+2
+['stop', '1']
+2
+['told', '2']
+2
+['mentioned', '1']
+2
+['gave', '7']
+2
+['character', '1']
+2
+['swim', '3']
+2
+['gone', '1']
+2
+['true', '2']
+2
+['push', '1']
+2
+['us', '2']
+2
+['returned', '2']
+2
+['though', '2']
+2
+['involved', '1']
+2
+['affair', '1']
+2
+['trusts', '1']
+2
+['free', '6']
+2
+['exactly', '1']
+2
+['notion', '1']
+2
+['fit', '3']
+2
+['obstacle', '1']
+2
+['between', '2']
+2
+['ourselves', '1']
+2
+['let', '3']
+2
+['liked', '1']
+2
+['ever', '1']
+2
+['secret', '1']
+2
+['yourself', '1']
+2
+['rubbing', '1']
+2
+['wasn', '1']
+2
+['afraid', '1']
+2
+['interrupting', '1']
+2
+['sixpence', '1']
+2
+['believe', '2']
+2
+['atom', '2']
+2
+['attempted', '1']
+2
+['saves', '1']
+2
+['world', '1']
+2
+['trouble', '1']
+2
+['needn', '1']
+2
+['try', '1']
+2
+['spreading', '1']
+2
+['eye', '1']
+2
+['sadly', '1']
+2
+['entirely', '1']
+2
+['cardboard', '1']
+2
+['far', '1']
+2
+['muttering', '1']
+2
+['goes', '1']
+2
+['triumphantly', '1']
+2
+['pointing', '1']
+2
+['clearer', '1']
+2
+['fits', '1']
+2
+['furiously', '1']
+2
+['throwing', '1']
+2
+['inkstand', '1']
+2
+['unfortunate', '2']
+2
+['using', '5']
+2
+['ink', '1']
+2
+['trickling', '1']
+2
+['face', '2']
+2
+['lasted', '1']
+2
+['smile', '1']
+2
+['dead', '2']
+2
+['pun', '1']
+2
+['offended', '1']
+2
+['laughed', '1']
+2
+['twentieth', '1']
+2
+['sentence', '4']
+2
+['afterwards', '1']
+2
+['stuff', '1']
+2
+['loudly', '1']
+2
+['having', '1']
+2
+['hold', '2']
+2
+['tongue', '1']
+2
+['purple', '1']
+2
+['won', '1']
+2
+['shouted', '1']
+2
+['moved', '1']
+2
+['cares', '1']
+2
+['full', '14']
+2
+['size', '1']
+2
+['rose', '1']
+2
+['flying', '1']
+2
+['scream', '1']
+2
+['half', '3']
+2
+['fright', '1']
+2
+['anger', '1']
+2
+['tried', '1']
+2
+['beat', '1']
+2
+['lying', '1']
+2
+['bank', '1']
+2
+['lap', '1']
+2
+['sister', '7']
+2
+['gently', '1']
+2
+['brushing', '1']
+2
+['leaves', '1']
+2
+['fluttered', '1']
+2
+['trees', '1']
+2
+['wake', '1']
+2
+['sleep', '1']
+2
+['dream', '6']
+2
+['strange', '3']
+2
+['adventures', '4']
+2
+['hers', '3']
+2
+['kissed', '1']
+2
+['run', '1']
+2
+['late', '1']
+2
+['thinking', '2']
+2
+['might', '1']
+2
+['wonderful', '2']
+2
+['still', '2']
+2
+['leaning', '1']
+2
+['watching', '1']
+2
+['setting', '1']
+2
+['sun', '1']
+2
+['dreaming', '1']
+2
+['dreamed', '1']
+2
+['tiny', '1']
+2
+['clasped', '1']
+2
+['bright', '2']
+2
+['eager', '2']
+2
+['hear', '3']
+2
+['tones', '1']
+2
+['queer', '2']
+2
+['toss', '1']
+2
+['wandering', '1']
+2
+['hair', '1']
+2
+['always', '1']
+2
+['listened', '1']
+2
+['listen', '1']
+2
+['place', '3']
+2
+['around', '2']
+2
+['became', '1']
+2
+['alive', '1']
+2
+['grass', '2']
+2
+['rustled', '1']
+2
+['feet', '1']
+2
+['frightened', '1']
+2
+['mouse', '1']
+2
+['splashed', '1']
+2
+['through', '4']
+2
+['neighbouring', '1']
+2
+['pool', '2']
+2
+['rattle', '1']
+2
+['teacups', '2']
+2
+['friends', '1']
+2
+['shared', '2']
+2
+['ending', '1']
+2
+['meal', '1']
+2
+['ordering', '1']
+2
+['guests', '1']
+2
+['execution', '1']
+2
+['baby', '2']
+2
+['plates', '1']
+2
+['dishes', '1']
+2
+['crashed', '1']
+2
+['shriek', '2']
+2
+['squeaking', '1']
+2
+['choking', '1']
+2
+['filled', '1']
+2
+['mixed', '1']
+2
+['distant', '1']
+2
+['sobs', '2']
+2
+['closed', '1']
+2
+['believed', '1']
+2
+['wonderland', '4']
+2
+['change', '4']
+2
+['dull', '1']
+2
+['reality', '1']
+2
+['rustling', '1']
+2
+['wind', '1']
+2
+['rippling', '1']
+2
+['reeds', '1']
+2
+['rattling', '1']
+2
+['tinkling', '1']
+2
+['sheep', '1']
+2
+['bells', '1']
+2
+['cries', '1']
+2
+['shepherd', '1']
+2
+['boy', '1']
+2
+['sneeze', '1']
+2
+['noises', '1']
+2
+['confused', '1']
+2
+['clamour', '1']
+2
+['busy', '1']
+2
+['farm', '1']
+2
+['yard', '1']
+2
+['lowing', '1']
+2
+['cattle', '1']
+2
+['heavy', '1']
+2
+['lastly', '1']
+2
+['pictured', '1']
+2
+['same', '2']
+2
+['woman', '1']
+2
+['riper', '1']
+2
+['years', '2']
+2
+['simple', '3']
+2
+['loving', '1']
+2
+['heart', '1']
+2
+['childhood', '1']
+2
+['gather', '1']
+2
+['children', '1']
+2
+['many', '3']
+2
+['tale', '1']
+2
+['perhaps', '1']
+2
+['ago', '1']
+2
+['feel', '1']
+2
+['sorrows', '1']
+2
+['pleasure', '1']
+2
+['joys', '1']
+2
+['remembering', '1']
+2
+['child', '1']
+2
+['life', '2']
+2
+['happy', '1']
+2
+['days', '5']
+2
+['project', '84']
+2
+['gutenberg', '89']
+2
+['lewis', '1']
+2
+['carroll', '1']
+2
+['ebook', '5']
+2
+['file', '2']
+2
+['named', '1']
+2
+['txt', '1']
+2
+['zip', '1']
+2
+['associated', '8']
+2
+['files', '2']
+2
+['various', '1']
+2
+['formats', '2']
+2
+['http', '8']
+2
+['www', '5']
+2
+['org', '12']
+2
+['updated', '1']
+2
+['editions', '4']
+2
+['replace', '1']
+2
+['previous', '1']
+2
+['old', '2']
+2
+['renamed', '1']
+2
+['creating', '4']
+2
+['works', '32']
+2
+['public', '9']
+2
+['domain', '8']
+2
+['print', '1']
+2
+['owns', '2']
+2
+['united', '10']
+2
+['states', '14']
+2
+['copyright', '14']
+2
+['foundation', '25']
+2
+['copy', '11']
+2
+['distribute', '6']
+2
+['permission', '7']
+2
+['paying', '2']
+2
+['royalties', '2']
+2
+['special', '1']
+2
+['rules', '2']
+2
+['forth', '8']
+2
+['terms', '20']
+2
+['license', '15']
+2
+['apply', '1']
+2
+['copying', '4']
+2
+['distributing', '7']
+2
+['tm', '57']
+2
+['electronic', '27']
+2
+['protect', '2']
+2
+['concept', '2']
+2
+['trademark', '11']
+2
+['registered', '2']
+2
+['used', '3']
+2
+['charge', '6']
+2
+['ebooks', '7']
+2
+['receive', '3']
+2
+['specific', '1']
+2
+['copies', '7']
+2
+['complying', '3']
+2
+['easy', '1']
+2
+['purpose', '2']
+2
+['creation', '1']
+2
+['derivative', '3']
+2
+['reports', '1']
+2
+['performances', '1']
+2
+['research', '2']
+2
+['modified', '1']
+2
+['printed', '2']
+2
+['given', '1']
+2
+['practically', '1']
+2
+['redistribution', '2']
+2
+['subject', '1']
+2
+['especially', '1']
+2
+['commercial', '1']
+2
+['start', '2']
+2
+['mission', '4']
+2
+['promoting', '2']
+2
+['distribution', '6']
+2
+['phrase', '4']
+2
+['agree', '9']
+2
+['comply', '6']
+2
+['available', '2']
+2
+['online', '3']
+2
+['section', '7']
+2
+['redistributing', '2']
+2
+['indicate', '1']
+2
+['understand', '1']
+2
+['accept', '1']
+2
+['intellectual', '2']
+2
+['property', '2']
+2
+['agreement', '18']
+2
+['abide', '1']
+2
+['cease', '1']
+2
+['return', '3']
+2
+['destroy', '2']
+2
+['possession', '1']
+2
+['paid', '6']
+2
+['fee', '8']
+2
+['obtaining', '2']
+2
+['access', '10']
+2
+['bound', '2']
+2
+['obtain', '3']
+2
+['refund', '10']
+2
+['person', '4']
+2
+['entity', '3']
+2
+['whom', '1']
+2
+['paragraph', '11']
+2
+['b', '3']
+2
+['c', '5']
+2
+['lot', '1']
+2
+['follow', '1']
+2
+['preserve', '1']
+2
+['future', '3']
+2
+['literary', '13']
+2
+['archive', '13']
+2
+['pglaf', '8']
+2
+['compilation', '1']
+2
+['collection', '4']
+2
+['individual', '4']
+2
+['located', '4']
+2
+['claim', '1']
+2
+['prevent', '1']
+2
+['performing', '3']
+2
+['displaying', '4']
+2
+['based', '2']
+2
+['references', '2']
+2
+['removed', '2']
+2
+['hope', '1']
+2
+['support', '4']
+2
+['freely', '4']
+2
+['sharing', '1']
+2
+['compliance', '5']
+2
+['keeping', '2']
+2
+['easily', '1']
+2
+['format', '4']
+2
+['attached', '1']
+2
+['share', '1']
+2
+['others', '1']
+2
+['laws', '8']
+2
+['also', '2']
+2
+['govern', '1']
+2
+['countries', '1']
+2
+['constant', '1']
+2
+['state', '6']
+2
+['check', '2']
+2
+['country', '2']
+2
+['addition', '1']
+2
+['downloading', '1']
+2
+['representations', '1']
+2
+['concerning', '2']
+2
+['status', '4']
+2
+['following', '3']
+2
+['active', '2']
+2
+['links', '3']
+2
+['immediate', '2']
+2
+['appear', '1']
+2
+['prominently', '2']
+2
+['whenever', '1']
+2
+['appears', '1']
+2
+['accessed', '1']
+2
+['displayed', '1']
+2
+['performed', '1']
+2
+['viewed', '1']
+2
+['copied', '2']
+2
+['distributed', '4']
+2
+['anyone', '4']
+2
+['anywhere', '1']
+2
+['cost', '2']
+2
+['almost', '1']
+2
+['restrictions', '1']
+2
+['whatsoever', '1']
+2
+['under', '5']
+2
+['included', '2']
+2
+['derived', '1']
+2
+['does', '2']
+2
+['contain', '2']
+2
+['notice', '3']
+2
+['indicating', '1']
+2
+['posted', '5']
+2
+['holder', '4']
+2
+['fees', '4']
+2
+['charges', '1']
+2
+['providing', '4']
+2
+['appearing', '1']
+2
+['either', '1']
+2
+['requirements', '4']
+2
+['paragraphs', '3']
+2
+['additional', '4']
+2
+['imposed', '1']
+2
+['linked', '1']
+2
+['unlink', '1']
+2
+['detach', '1']
+2
+['remove', '1']
+2
+['containing', '1']
+2
+['display', '1']
+2
+['perform', '1']
+2
+['redistribute', '1']
+2
+['convert', '1']
+2
+['binary', '1']
+2
+['compressed', '1']
+2
+['marked', '2']
+2
+['nonproprietary', '1']
+2
+['proprietary', '1']
+2
+['form', '4']
+2
+['including', '8']
+2
+['processing', '1']
+2
+['hypertext', '1']
+2
+['provide', '7']
+2
+['plain', '2']
+2
+['vanilla', '2']
+2
+['ascii', '2']
+2
+['official', '3']
+2
+['version', '1']
+2
+['web', '6']
+2
+['site', '4']
+2
+['expense', '1']
+2
+['user', '3']
+2
+['exporting', '1']
+2
+['request', '1']
+2
+['original', '1']
+2
+['alternate', '1']
+2
+['include', '1']
+2
+['specified', '2']
+2
+['viewing', '1']
+2
+['provided', '4']
+2
+['pay', '1']
+2
+['royalty', '3']
+2
+['gross', '1']
+2
+['profits', '1']
+2
+['derive', '1']
+2
+['calculated', '1']
+2
+['method', '1']
+2
+['already', '1']
+2
+['calculate', '1']
+2
+['applicable', '3']
+2
+['taxes', '1']
+2
+['owed', '1']
+2
+['owner', '5']
+2
+['agreed', '1']
+2
+['donate', '4']
+2
+['payments', '3']
+2
+['within', '4']
+2
+['date', '2']
+2
+['prepare', '2']
+2
+['legally', '1']
+2
+['required', '1']
+2
+['periodic', '1']
+2
+['tax', '6']
+2
+['returns', '1']
+2
+['clearly', '1']
+2
+['address', '1']
+2
+['information', '8']
+2
+['donations', '15']
+2
+['money', '3']
+2
+['notifies', '1']
+2
+['mail', '1']
+2
+['receipt', '2']
+2
+['require', '1']
+2
+['possessed', '1']
+2
+['physical', '2']
+2
+['medium', '5']
+2
+['discontinue', '1']
+2
+['accordance', '2']
+2
+['f', '11']
+2
+['replacement', '5']
+2
+['defect', '3']
+2
+['discovered', '1']
+2
+['reported', '1']
+2
+['group', '1']
+2
+['different', '1']
+2
+['michael', '2']
+2
+['hart', '2']
+2
+['contact', '4']
+2
+['volunteers', '6']
+2
+['employees', '2']
+2
+['expend', '1']
+2
+['considerable', '2']
+2
+['effort', '2']
+2
+['identify', '1']
+2
+['transcribe', '1']
+2
+['proofread', '1']
+2
+['despite', '1']
+2
+['efforts', '3']
+2
+['stored', '1']
+2
+['defects', '1']
+2
+['limited', '5']
+2
+['incomplete', '1']
+2
+['inaccurate', '1']
+2
+['corrupt', '1']
+2
+['data', '1']
+2
+['transcription', '1']
+2
+['errors', '1']
+2
+['infringement', '1']
+2
+['defective', '3']
+2
+['damaged', '1']
+2
+['disk', '1']
+2
+['computer', '2']
+2
+['virus', '1']
+2
+['codes', '1']
+2
+['damage', '2']
+2
+['equipment', '3']
+2
+['warranty', '2']
+2
+['disclaimer', '3']
+2
+['damages', '4']
+2
+['described', '1']
+2
+['party', '1']
+2
+['disclaim', '1']
+2
+['liability', '3']
+2
+['costs', '2']
+2
+['expenses', '2']
+2
+['legal', '2']
+2
+['remedies', '1']
+2
+['negligence', '1']
+2
+['strict', '1']
+2
+['breach', '2']
+2
+['contract', '1']
+2
+['distributor', '1']
+2
+['liable', '1']
+2
+['actual', '1']
+2
+['direct', '1']
+2
+['indirect', '1']
+2
+['consequential', '1']
+2
+['punitive', '1']
+2
+['incidental', '1']
+2
+['possibility', '1']
+2
+['discover', '1']
+2
+['receiving', '1']
+2
+['sending', '1']
+2
+['received', '5']
+2
+['elect', '1']
+2
+['lieu', '2']
+2
+['electronically', '2']
+2
+['choose', '1']
+2
+['demand', '1']
+2
+['further', '1']
+2
+['opportunities', '1']
+2
+['fix', '1']
+2
+['problem', '1']
+2
+['warranties', '3']
+2
+['kind', '1']
+2
+['express', '1']
+2
+['implied', '2']
+2
+['merchantibility', '1']
+2
+['fitness', '1']
+2
+['allow', '1']
+2
+['disclaimers', '1']
+2
+['certain', '2']
+2
+['exclusion', '1']
+2
+['limitation', '3']
+2
+['types', '1']
+2
+['violates', '1']
+2
+['law', '2']
+2
+['interpreted', '1']
+2
+['maximum', '1']
+2
+['permitted', '2']
+2
+['invalidity', '1']
+2
+['unenforceability', '1']
+2
+['provision', '1']
+2
+['void', '1']
+2
+['remaining', '1']
+2
+['provisions', '1']
+2
+['indemnity', '1']
+2
+['indemnify', '1']
+2
+['agent', '1']
+2
+['employee', '1']
+2
+['production', '1']
+2
+['promotion', '1']
+2
+['harmless', '1']
+2
+['arise', '1']
+2
+['directly', '1']
+2
+['indirectly', '1']
+2
+['cause', '2']
+2
+['occur', '1']
+2
+['alteration', '1']
+2
+['modification', '1']
+2
+['additions', '1']
+2
+['deletions', '1']
+2
+['synonymous', '1']
+2
+['readable', '2']
+2
+['widest', '2']
+2
+['variety', '1']
+2
+['computers', '2']
+2
+['obsolete', '1']
+2
+['aged', '1']
+2
+['new', '3']
+2
+['exists', '1']
+2
+['hundreds', '1']
+2
+['walks', '1']
+2
+['financial', '1']
+2
+['assistance', '1']
+2
+['need', '1']
+2
+['critical', '1']
+2
+['reaching', '1']
+2
+['goals', '1']
+2
+['ensuring', '1']
+2
+['generations', '2']
+2
+['created', '2']
+2
+['secure', '1']
+2
+['permanent', '1']
+2
+['learn', '1']
+2
+['sections', '1']
+2
+['page', '2']
+2
+['non', '1']
+2
+['profit', '1']
+2
+['educational', '1']
+2
+['corporation', '1']
+2
+['organized', '1']
+2
+['mississippi', '1']
+2
+['granted', '1']
+2
+['exempt', '2']
+2
+['internal', '1']
+2
+['revenue', '1']
+2
+['service', '1']
+2
+['ein', '1']
+2
+['federal', '2']
+2
+['identification', '1']
+2
+['fundraising', '1']
+2
+['contributions', '2']
+2
+['deductible', '1']
+2
+['extent', '1']
+2
+['u', '3']
+2
+['principal', '1']
+2
+['office', '2']
+2
+['melan', '1']
+2
+['dr', '2']
+2
+['fairbanks', '1']
+2
+['ak', '1']
+2
+['scattered', '1']
+2
+['throughout', '1']
+2
+['numerous', '1']
+2
+['locations', '2']
+2
+['north', '1']
+2
+['west', '1']
+2
+['salt', '1']
+2
+['lake', '1']
+2
+['city', '1']
+2
+['ut', '1']
+2
+['email', '3']
+2
+['gregory', '1']
+2
+['newby', '1']
+2
+['chief', '1']
+2
+['executive', '1']
+2
+['director', '1']
+2
+['gbnewby', '1']
+2
+['depends', '1']
+2
+['survive', '1']
+2
+['wide', '1']
+2
+['spread', '1']
+2
+['carry', '1']
+2
+['increasing', '1']
+2
+['licensed', '1']
+2
+['machine', '1']
+2
+['accessible', '1']
+2
+['array', '1']
+2
+['outdated', '1']
+2
+['small', '2']
+2
+['particularly', '1']
+2
+['maintaining', '1']
+2
+['irs', '1']
+2
+['committed', '1']
+2
+['regulating', '1']
+2
+['charities', '1']
+2
+['charitable', '1']
+2
+['uniform', '1']
+2
+['takes', '1']
+2
+['paperwork', '1']
+2
+['meet', '1']
+2
+['solicit', '2']
+2
+['confirmation', '1']
+2
+['send', '1']
+2
+['determine', '1']
+2
+['particular', '2']
+2
+['visit', '2']
+2
+['met', '1']
+2
+['solicitation', '1']
+2
+['prohibition', '1']
+2
+['against', '1']
+2
+['accepting', '1']
+2
+['unsolicited', '1']
+2
+['donors', '1']
+2
+['approach', '1']
+2
+['offers', '1']
+2
+['international', '1']
+2
+['gratefully', '1']
+2
+['accepted', '2']
+2
+['statements', '1']
+2
+['treatment', '1']
+2
+['alone', '1']
+2
+['swamp', '1']
+2
+['our', '4']
+2
+['staff', '1']
+2
+['pages', '1']
+2
+['current', '1']
+2
+['donation', '1']
+2
+['methods', '1']
+2
+['addresses', '1']
+2
+['ways', '1']
+2
+['checks', '1']
+2
+['credit', '1']
+2
+['card', '1']
+2
+['professor', '1']
+2
+['originator', '1']
+2
+['library', '1']
+2
+['thirty', '1']
+2
+['produced', '1']
+2
+['loose', '1']
+2
+['network', '1']
+2
+['volunteer', '1']
+2
+['several', '1']
+2
+['confirmed', '1']
+2
+['thus', '1']
+2
+['necessarily', '1']
+2
+['edition', '1']
+2
+['main', '1']
+2
+['pg', '1']
+2
+['search', '1']
+2
+['facility', '1']
+2
+['includes', '1']
+2
+['produce', '1']
+2
+['subscribe', '1']
+2
+['newsletter', '1']
+2
+project	87
+gutenberg	93
+s	219
+alice	403
+adventures	12
+in	431
+wonderland	8
+by	78
+lewis	4
+carroll	4
+this	181
+ebook	9
+is	135
+for	179
+the	1818
+use	31
+of	631
+anyone	5
+anywhere	3
+at	227
+no	100
+cost	4
+and	940
+with	228
+almost	8
+restrictions	2
+whatsoever	2
+you	481
+may	28
+copy	12
+it	610
+give	16
+away	28
+or	155
+re	40
+under	22
+terms	22
+license	16
+included	3
+online	4
+www	6
+org	13
+title	1
+author	1
+posting	1
+date	4
+june	1
+release	1
+march	35
+last	34
+updated	2
+october	1
+language	1
+english	7
+character	2
+set	23
+encoding	1
+utf	1
+start	3
+millennium	1
+fulcrum	1
+edition	2
+chapter	12
+i	545
+down	102
+rabbit	51
+hole	5
+was	358
+beginning	15
+to	809
+get	46
+very	145
+tired	7
+sitting	10
+her	248
+sister	9
+on	204
+bank	3
+having	10
+nothing	34
+do	98
+once	34
+twice	5
+she	553
+had	178
+peeped	3
+into	67
+book	11
+reading	4
+but	175
+pictures	4
+conversations	2
+what	142
+a	690
+thought	74
+without	34
+so	152
+considering	3
+own	10
+mind	11
+as	274
+well	63
+could	78
+hot	7
+day	29
+made	30
+feel	8
+sleepy	5
+stupid	6
+whether	11
+pleasure	2
+making	8
+daisy	1
+chain	1
+would	83
+be	167
+worth	4
+trouble	6
+getting	22
+up	103
+picking	2
+daisies	1
+when	80
+suddenly	13
+white	30
+pink	1
+eyes	29
+ran	16
+close	13
+there	101
+remarkable	2
+that	330
+nor	3
+did	63
+think	53
+much	52
+out	118
+way	58
+hear	15
+say	51
+itself	14
+oh	45
+dear	29
+shall	27
+late	6
+over	40
+afterwards	2
+occurred	2
+ought	14
+have	85
+wondered	1
+time	71
+all	200
+seemed	27
+quite	55
+natural	4
+actually	1
+took	24
+watch	8
+its	63
+waistcoat	2
+pocket	7
+looked	45
+then	94
+hurried	11
+started	2
+feet	19
+flashed	1
+across	5
+never	48
+before	40
+seen	15
+either	11
+take	22
+burning	1
+curiosity	5
+field	1
+after	43
+fortunately	1
+just	52
+see	70
+pop	1
+large	33
+hedge	2
+another	22
+moment	31
+went	83
+how	72
+world	7
+again	83
+straight	2
+like	85
+tunnel	1
+some	52
+dipped	2
+not	166
+about	102
+stopping	1
+herself	83
+found	35
+falling	2
+deep	7
+fell	6
+slowly	8
+plenty	2
+look	29
+wonder	18
+going	27
+happen	8
+next	30
+first	51
+tried	19
+make	30
+coming	9
+too	26
+dark	3
+anything	22
+sides	4
+noticed	8
+they	155
+were	85
+filled	3
+cupboards	2
+shelves	2
+here	51
+saw	14
+maps	1
+hung	1
+upon	28
+pegs	1
+jar	2
+from	51
+one	106
+passed	5
+labelled	1
+orange	1
+marmalade	1
+great	39
+disappointment	1
+empty	1
+drop	1
+fear	4
+killing	1
+somebody	7
+managed	4
+put	31
+past	3
+such	47
+fall	7
+tumbling	2
+stairs	3
+brave	1
+ll	57
+me	68
+home	5
+why	40
+wouldn	13
+t	218
+even	21
+if	116
+off	73
+top	8
+house	18
+which	56
+likely	5
+true	4
+come	47
+an	61
+end	20
+many	14
+miles	3
+ve	44
+fallen	4
+said	462
+aloud	5
+must	54
+somewhere	3
+near	15
+centre	1
+earth	4
+let	22
+four	8
+thousand	2
+learnt	2
+several	5
+things	33
+sort	20
+lessons	10
+schoolroom	1
+though	11
+good	27
+opportunity	9
+showing	2
+knowledge	3
+listen	7
+still	13
+practice	1
+yes	13
+right	36
+distance	8
+latitude	2
+longitude	2
+got	45
+idea	15
+nice	6
+grand	3
+words	21
+presently	2
+began	58
+through	16
+funny	3
+seem	8
+among	12
+people	16
+walk	5
+their	52
+heads	10
+downward	1
+antipathies	1
+rather	25
+glad	11
+listening	3
+didn	14
+sound	4
+word	11
+ask	11
+them	88
+name	11
+country	3
+know	88
+please	22
+ma	3
+am	16
+new	8
+zealand	1
+australia	1
+curtsey	1
+spoke	17
+fancy	7
+curtseying	1
+air	15
+manage	7
+ignorant	1
+little	128
+girl	4
+asking	5
+perhaps	17
+written	9
+else	12
+soon	25
+talking	17
+dinah	14
+miss	4
+night	5
+should	29
+cat	37
+hope	4
+remember	14
+saucer	1
+milk	2
+tea	19
+my	58
+wish	22
+are	73
+mice	4
+m	63
+afraid	12
+might	28
+catch	4
+bat	3
+mouse	44
+cats	13
+eat	18
+bats	4
+saying	15
+dreamy	1
+sometimes	5
+couldn	9
+answer	9
+question	17
+matter	9
+felt	23
+dozing	1
+begun	7
+dream	7
+walking	5
+hand	21
+earnestly	2
+now	60
+tell	32
+truth	1
+ever	21
+thump	2
+came	40
+heap	1
+sticks	1
+dry	8
+leaves	6
+bit	16
+hurt	3
+jumped	6
+overhead	1
+long	33
+passage	4
+sight	10
+hurrying	1
+lost	3
+wind	2
+turned	16
+corner	4
+ears	5
+whiskers	3
+behind	13
+longer	3
+low	15
+hall	9
+lit	1
+row	2
+lamps	1
+hanging	3
+roof	6
+doors	2
+round	41
+locked	1
+been	38
+side	17
+other	54
+trying	14
+every	12
+door	30
+walked	10
+sadly	5
+middle	8
+wondering	7
+three	28
+legged	2
+table	18
+solid	1
+glass	10
+except	7
+tiny	4
+golden	7
+key	9
+belong	1
+alas	4
+locks	2
+small	12
+any	76
+rate	9
+open	7
+however	21
+second	6
+curtain	1
+fifteen	1
+inches	6
+high	16
+lock	1
+delight	3
+fitted	1
+opened	10
+led	4
+larger	7
+than	26
+rat	1
+knelt	1
+along	6
+loveliest	1
+garden	16
+longed	2
+wander	1
+those	11
+beds	2
+bright	8
+flowers	2
+cool	2
+fountains	2
+head	50
+doorway	1
+go	50
+poor	27
+shoulders	4
+shut	5
+telescope	3
+only	52
+knew	15
+begin	13
+happened	7
+lately	1
+few	10
+indeed	16
+really	13
+impossible	3
+waiting	9
+back	39
+half	23
+hoping	3
+find	21
+rules	5
+shutting	2
+telescopes	1
+bottle	10
+certainly	14
+neck	7
+paper	5
+label	2
+drink	7
+beautifully	2
+printed	3
+letters	1
+wise	2
+hurry	11
+marked	8
+poison	3
+read	14
+histories	1
+children	10
+who	66
+burnt	1
+eaten	1
+wild	2
+beasts	2
+unpleasant	2
+because	16
+simple	5
+friends	2
+taught	4
+red	3
+poker	1
+will	40
+burn	2
+hold	11
+cut	5
+your	71
+finger	5
+deeply	4
+knife	3
+usually	2
+bleeds	1
+forgotten	6
+certain	5
+disagree	1
+sooner	2
+later	3
+ventured	4
+taste	2
+finding	3
+fact	8
+mixed	2
+flavour	1
+cherry	1
+tart	1
+custard	1
+pine	1
+apple	1
+roast	1
+turkey	1
+toffee	1
+buttered	1
+toast	1
+finished	12
+curious	19
+feeling	7
+ten	6
+face	15
+brightened	2
+size	13
+lovely	2
+waited	11
+minutes	11
+shrink	1
+further	4
+nervous	5
+altogether	5
+candle	3
+flame	1
+blown	1
+thing	49
+while	26
+more	50
+decided	3
+possibly	3
+reach	4
+plainly	1
+best	12
+climb	1
+legs	3
+slippery	1
+sat	17
+cried	20
+crying	2
+sharply	4
+advise	1
+leave	9
+minute	21
+generally	7
+gave	15
+advice	2
+seldom	1
+followed	8
+scolded	1
+severely	4
+bring	3
+tears	11
+remembered	5
+box	10
+cheated	1
+game	13
+croquet	9
+playing	2
+against	10
+child	11
+fond	4
+pretending	1
+two	40
+pretend	1
+hardly	12
+enough	18
+left	14
+respectable	1
+person	8
+eye	7
+lying	8
+cake	3
+currants	1
+makes	12
+grow	13
+can	73
+smaller	3
+creep	1
+don	61
+care	4
+happens	5
+ate	1
+anxiously	14
+holding	3
+growing	11
+surprised	7
+remained	3
+same	25
+sure	24
+eats	1
+expecting	3
+dull	3
+life	13
+common	1
+work	53
+ii	1
+pool	11
+curiouser	2
+forgot	2
+speak	15
+opening	3
+largest	1
+bye	2
+far	13
+shoes	7
+stockings	1
+dears	3
+shan	6
+able	1
+deal	12
+myself	7
+kind	8
+won	26
+want	9
+pair	5
+boots	4
+christmas	1
+planning	1
+carrier	1
+sending	3
+presents	2
+odd	1
+directions	3
+foot	10
+esq	1
+hearthrug	1
+fender	1
+love	3
+nonsense	7
+struck	2
+nine	5
+hopeless	1
+cry	3
+ashamed	2
+yourself	10
+stop	6
+shedding	1
+gallons	1
+until	5
+reaching	2
+heard	30
+pattering	3
+hastily	16
+dried	1
+returning	1
+splendidly	1
+dressed	1
+kid	5
+gloves	11
+fan	10
+he	128
+trotting	2
+muttering	3
+himself	6
+duchess	42
+savage	4
+kept	13
+desperate	1
+ready	8
+help	12
+timid	3
+voice	48
+sir	7
+violently	4
+dropped	5
+skurried	1
+darkness	1
+hard	8
+fanning	1
+queer	12
+everything	14
+yesterday	3
+usual	5
+changed	8
+morning	5
+different	10
+ah	5
+puzzle	1
+thinking	11
+age	4
+ada	1
+hair	7
+goes	7
+ringlets	2
+mine	10
+doesn	16
+mabel	4
+sorts	3
+knows	2
+besides	4
+puzzling	4
+try	12
+used	16
+times	6
+five	8
+twelve	4
+six	2
+thirteen	1
+seven	6
+twenty	3
+multiplication	1
+signify	1
+geography	1
+london	1
+capital	4
+paris	2
+rome	2
+wrong	5
+doth	3
+crossed	3
+hands	12
+lap	2
+repeat	7
+sounded	5
+hoarse	3
+strange	5
+crocodile	1
+improve	1
+his	96
+shining	1
+tail	9
+pour	1
+waters	1
+nile	1
+scale	1
+cheerfully	1
+seems	5
+grin	6
+neatly	2
+spread	4
+claws	2
+welcome	1
+fishes	1
+gently	3
+smiling	2
+jaws	2
+live	8
+poky	1
+toys	1
+play	8
+learn	8
+stay	5
+putting	3
+being	19
+till	21
+sudden	5
+burst	1
+alone	5
+done	15
+measure	1
+nearly	13
+guess	3
+shrinking	4
+rapidly	2
+cause	5
+avoid	1
+narrow	2
+escape	4
+frightened	7
+change	15
+existence	1
+speed	1
+worse	3
+declare	2
+bad	2
+these	17
+slipped	3
+splash	1
+chin	7
+salt	3
+water	5
+somehow	1
+sea	14
+case	5
+railway	2
+seaside	1
+general	6
+conclusion	2
+wherever	2
+coast	1
+number	8
+bathing	1
+machines	1
+digging	4
+sand	1
+wooden	1
+spades	1
+lodging	1
+houses	1
+station	1
+wept	1
+hadn	8
+swam	5
+punished	1
+suppose	14
+drowned	1
+something	18
+splashing	2
+nearer	5
+walrus	1
+hippopotamus	1
+talk	14
+harm	1
+o	6
+swimming	2
+speaking	5
+brother	1
+latin	1
+grammar	1
+inquisitively	1
+wink	2
+understand	7
+daresay	1
+french	4
+william	8
+conqueror	2
+history	7
+clear	2
+notion	3
+ago	2
+ou	1
+est	1
+chatte	1
+sentence	8
+lesson	3
+leap	1
+quiver	1
+fright	2
+beg	8
+pardon	6
+animal	2
+feelings	2
+shrill	5
+passionate	1
+soothing	1
+tone	40
+angry	5
+yet	25
+show	3
+our	12
+d	30
+quiet	2
+lazily	1
+sits	1
+purring	2
+nicely	2
+fire	4
+licking	1
+paws	4
+washing	3
+soft	1
+nurse	3
+catching	2
+bristling	1
+offended	10
+we	43
+trembling	6
+subject	7
+family	1
+always	13
+hated	1
+nasty	1
+vulgar	1
+conversation	9
+dogs	3
+eagerly	8
+dog	3
+eyed	1
+terrier	1
+curly	1
+brown	2
+fetch	7
+throw	3
+sit	8
+dinner	2
+belongs	2
+farmer	1
+says	4
+useful	2
+hundred	1
+pounds	1
+kills	1
+rats	1
+sorrowful	2
+commotion	1
+called	15
+softly	1
+pale	4
+passion	3
+us	15
+shore	4
+hate	2
+crowded	5
+birds	10
+animals	4
+duck	4
+dodo	13
+lory	7
+eaglet	3
+creatures	10
+whole	13
+party	11
+iii	1
+caucus	3
+race	6
+tale	4
+looking	32
+assembled	2
+draggled	1
+feathers	1
+fur	3
+clinging	1
+dripping	1
+wet	2
+cross	3
+uncomfortable	4
+course	27
+consultation	1
+familiarly	1
+known	1
+argument	4
+sulky	3
+older	2
+better	14
+allow	4
+knowing	2
+old	21
+positively	1
+refused	1
+authority	2
+ring	2
+fixed	1
+cold	1
+ahem	1
+important	8
+driest	1
+silence	14
+whose	2
+favoured	1
+pope	1
+submitted	1
+wanted	4
+leaders	1
+accustomed	1
+usurpation	1
+conquest	1
+edwin	2
+morcar	2
+earls	2
+mercia	2
+northumbria	2
+ugh	2
+shiver	1
+frowning	4
+politely	6
+proceed	2
+declared	1
+him	43
+stigand	1
+patriotic	1
+archbishop	2
+canterbury	1
+advisable	2
+replied	29
+crossly	1
+means	8
+frog	3
+worm	1
+notice	8
+hurriedly	2
+edgar	1
+atheling	1
+meet	3
+offer	2
+crown	3
+conduct	1
+moderate	1
+insolence	1
+normans	1
+continued	9
+turning	12
+melancholy	6
+solemnly	4
+rising	1
+move	3
+meeting	1
+adjourn	1
+immediate	3
+adoption	1
+energetic	1
+remedies	2
+meaning	8
+believe	9
+bent	1
+hide	1
+smile	2
+tittered	1
+audibly	1
+paused	1
+inclined	1
+explain	10
+winter	1
+circle	1
+exact	1
+shape	1
+placed	1
+running	8
+liked	6
+easy	3
+hour	2
+panting	2
+has	9
+pressed	3
+forehead	2
+position	2
+shakespeare	1
+rest	10
+everybody	8
+prizes	5
+chorus	6
+voices	3
+asked	17
+pointing	4
+calling	1
+confused	4
+despair	1
+pulled	1
+comfits	2
+luckily	2
+handed	3
+exactly	8
+piece	6
+prize	1
+gravely	3
+thimble	4
+presented	1
+acceptance	1
+elegant	1
+short	4
+speech	3
+cheered	3
+absurd	2
+grave	3
+dare	5
+laugh	1
+simply	3
+bowed	4
+solemn	3
+caused	2
+noise	3
+confusion	5
+complained	1
+theirs	1
+ones	1
+choked	3
+patted	1
+begged	1
+promised	1
+c	6
+added	23
+whisper	3
+sad	3
+sighing	3
+call	9
+fury	3
+met	4
+both	16
+law	4
+prosecute	1
+denial	1
+trial	10
+cur	1
+jury	22
+judge	4
+wasting	2
+breath	4
+cunning	1
+condemn	1
+death	1
+attending	3
+humbly	2
+fifth	1
+bend	2
+angrily	9
+knot	2
+undo	1
+insult	1
+mean	10
+pleaded	3
+easily	4
+growled	1
+reply	5
+finish	5
+story	8
+others	8
+joined	3
+shook	9
+impatiently	5
+quicker	1
+pity	3
+sighed	5
+crab	3
+daughter	1
+lose	1
+temper	5
+tongue	4
+young	5
+snappishly	1
+patience	1
+oyster	1
+addressing	1
+nobody	8
+particular	6
+venture	3
+pet	1
+bird	2
+sensation	2
+magpie	1
+wrapping	1
+carefully	3
+remarking	3
+suit	3
+throat	2
+canary	1
+bed	1
+various	2
+pretexts	1
+moved	5
+mentioned	3
+lonely	2
+spirited	1
+footsteps	2
+iv	1
+sends	1
+bill	17
+executed	6
+ferrets	2
+where	18
+guessed	3
+naturedly	1
+hunting	3
+nowhere	2
+since	4
+swim	5
+vanished	4
+completely	1
+mary	4
+ann	4
+doing	5
+run	4
+quick	2
+direction	5
+pointed	1
+mistake	3
+housemaid	1
+finds	1
+neat	1
+brass	1
+plate	3
+w	1
+engraved	1
+knocking	3
+upstairs	1
+lest	1
+real	3
+messages	2
+fancying	1
+directly	3
+ordering	2
+tidy	1
+room	13
+window	8
+hoped	1
+pairs	1
+stood	7
+nevertheless	1
+uncorked	1
+lips	1
+interesting	5
+whenever	2
+does	11
+expected	1
+drunk	2
+pressing	1
+ceiling	1
+stoop	2
+save	1
+broken	6
+kneel	1
+floor	3
+effect	3
+elbow	3
+arm	15
+curled	2
+resource	1
+chimney	6
+whatever	3
+become	5
+magic	1
+full	19
+grew	1
+chance	4
+unhappy	2
+pleasanter	1
+wasn	11
+ordered	4
+rabbits	1
+gone	13
+fairy	1
+tales	1
+fancied	2
+write	6
+grown	7
+least	9
+comfort	1
+woman	2
+shouldn	5
+foolish	1
+answered	4
+books	2
+taking	5
+outside	7
+stopped	3
+trembled	2
+forgetting	3
+reason	9
+inwards	1
+attempt	1
+proved	2
+failure	1
+snatch	2
+shriek	5
+crash	3
+concluded	2
+possible	1
+cucumber	2
+frame	1
+pat	3
+apples	2
+yer	4
+honour	4
+sounds	4
+pronounced	1
+arrum	1
+goose	2
+fills	1
+business	9
+whispers	1
+coward	1
+shrieks	1
+frames	1
+pulling	1
+hearing	4
+rumbling	1
+cartwheels	1
+together	9
+ladder	1
+lad	1
+em	3
+tie	1
+rope	1
+bear	2
+loose	2
+slate	4
+below	6
+loud	6
+nay	1
+master	4
+shy	1
+place	9
+fireplace	1
+kick	3
+drew	5
+scratching	1
+scrambling	1
+above	3
+sharp	6
+brandy	1
+choke	1
+fellow	4
+feeble	2
+squeaking	2
+thank	4
+ye	1
+flustered	1
+comes	2
+jack	1
+sky	5
+rocket	1
+dead	4
+instantly	5
+sense	3
+moving	3
+barrowful	2
+doubt	4
+shower	2
+pebbles	2
+rattling	2
+hit	2
+shouted	9
+produced	2
+surprise	5
+cakes	3
+lay	4
+swallowed	1
+delighted	2
+crowd	4
+lizard	6
+held	4
+guinea	6
+pigs	6
+giving	2
+rush	2
+appeared	8
+safe	2
+thick	1
+wood	8
+wandered	2
+plan	4
+excellent	2
+arranged	1
+difficulty	4
+smallest	2
+peering	1
+trees	7
+bark	2
+enormous	1
+puppy	7
+feebly	1
+stretching	2
+paw	3
+touch	1
+coaxing	2
+whistle	1
+terribly	1
+hungry	3
+spite	1
+picked	3
+stick	4
+whereupon	1
+yelp	1
+rushed	1
+worry	1
+dodged	1
+thistle	2
+keep	13
+tumbled	1
+heels	1
+cart	1
+horse	1
+trampled	1
+series	1
+charges	2
+forwards	1
+each	9
+barking	1
+hoarsely	1
+mouth	10
+faint	1
+leant	1
+buttercup	1
+fanned	1
+teaching	1
+tricks	1
+blades	1
+grass	4
+circumstances	1
+mushroom	8
+height	5
+stretched	2
+tiptoe	2
+edge	3
+immediately	3
+caterpillar	28
+arms	6
+folded	3
+quietly	5
+smoking	2
+hookah	5
+v	1
+addressed	2
+languid	1
+encouraging	2
+shyly	1
+present	3
+sternly	1
+clearly	2
+sizes	1
+confusing	3
+isn	7
+haven	8
+turn	11
+chrysalis	1
+butterfly	1
+contemptuously	2
+brought	3
+irritated	1
+remarks	3
+state	7
+promising	1
+swallowing	1
+anger	2
+wait	1
+puffed	1
+unfolded	2
+busy	2
+bee	1
+father	6
+man	5
+incessantly	1
+stand	6
+youth	6
+son	1
+feared	1
+injure	1
+brain	1
+perfectly	4
+none	4
+most	11
+uncommonly	1
+fat	1
+somersault	2
+pray	3
+sage	1
+grey	1
+limbs	1
+supple	1
+ointment	1
+shilling	1
+sell	2
+couple	1
+weak	2
+tougher	1
+suet	1
+bones	1
+beak	1
+argued	1
+wife	1
+muscular	1
+strength	1
+jaw	1
+lasted	2
+steady	1
+balanced	1
+eel	2
+nose	8
+awfully	1
+clever	2
+questions	4
+airs	1
+stuff	4
+timidly	9
+altered	1
+decidedly	4
+changing	2
+often	6
+contradicted	1
+losing	1
+content	1
+wretched	2
+rearing	1
+upright	1
+piteous	1
+patiently	2
+chose	2
+yawned	2
+crawled	1
+merely	2
+taller	2
+shorter	2
+thoughtfully	4
+difficult	2
+broke	2
+nibbled	2
+violent	2
+blow	2
+underneath	1
+closely	1
+swallow	1
+morsel	1
+lefthand	2
+free	8
+alarm	2
+immense	1
+length	1
+rise	1
+stalk	1
+green	4
+result	1
+follow	3
+shaking	3
+distant	2
+serpent	9
+succeeded	3
+curving	1
+graceful	1
+zigzag	1
+dive	1
+tops	1
+wandering	2
+hiss	1
+draw	7
+pigeon	12
+flown	1
+beating	2
+wings	1
+screamed	4
+indignantly	4
+repeated	10
+subdued	1
+sob	1
+roots	2
+banks	1
+hedges	1
+serpents	3
+pleasing	1
+puzzled	9
+hatching	1
+eggs	5
+sleep	6
+weeks	1
+sorry	1
+annoyed	1
+taken	4
+highest	1
+tree	8
+raising	1
+needs	1
+wriggling	1
+invent	1
+doubtfully	2
+changes	2
+deepest	1
+contempt	1
+girls	3
+denying	1
+telling	2
+tasted	3
+egg	1
+truthful	1
+silent	7
+adding	1
+matters	2
+yours	3
+raw	1
+settled	3
+nest	1
+crouched	1
+entangled	2
+branches	2
+untwist	1
+pieces	3
+nibbling	3
+bringing	3
+beautiful	13
+whoever	1
+lives	4
+frighten	1
+wits	1
+righthand	1
+vi	1
+pig	11
+pepper	8
+footman	14
+livery	3
+considered	3
+otherwise	4
+judging	1
+fish	8
+rapped	1
+loudly	3
+knuckles	1
+footmen	1
+powdered	1
+crept	1
+producing	1
+letter	4
+invitation	2
+queen	75
+order	3
+curls	1
+laughed	2
+ground	8
+staring	3
+stupidly	1
+knocked	1
+reasons	1
+secondly	2
+inside	2
+extraordinary	2
+within	6
+constant	3
+howling	3
+sneezing	6
+dish	4
+kettle	1
+between	6
+instance	3
+knock	1
+uncivil	1
+remarked	10
+tomorrow	1
+skimming	1
+grazed	1
+maybe	2
+louder	1
+told	6
+dreadful	2
+muttered	2
+argue	1
+drive	2
+crazy	1
+repeating	3
+remark	10
+variations	1
+days	8
+whistling	1
+desperately	1
+idiotic	1
+kitchen	4
+smoke	1
+stool	1
+nursing	3
+baby	14
+cook	13
+leaning	2
+stirring	2
+cauldron	2
+soup	18
+sneezed	1
+occasionally	1
+alternately	1
+pause	2
+sneeze	2
+hearth	1
+grinning	1
+ear	6
+manners	1
+grins	1
+cheshire	7
+violence	1
+courage	3
+grinned	3
+pleased	7
+introduce	2
+fix	2
+throwing	2
+irons	1
+saucepans	1
+plates	2
+dishes	2
+already	3
+blows	1
+jumping	4
+agony	1
+terror	1
+precious	1
+unusually	1
+saucepan	1
+flew	1
+carried	4
+minded	1
+growl	3
+faster	3
+advantage	3
+takes	3
+hours	4
+axis	1
+axes	1
+chop	1
+glanced	1
+meant	5
+hint	2
+busily	4
+bother	1
+abide	2
+figures	1
+singing	2
+lullaby	1
+shake	1
+line	2
+roughly	1
+boy	3
+beat	4
+sneezes	2
+annoy	1
+teases	1
+wow	6
+sang	2
+verse	4
+song	7
+tossing	3
+howled	1
+thoroughly	2
+enjoy	1
+pleases	1
+flinging	1
+threw	2
+frying	1
+pan	1
+missed	2
+caught	3
+shaped	3
+creature	4
+star	1
+snorting	1
+steam	1
+engine	1
+doubling	1
+straightening	1
+proper	3
+twist	2
+tight	1
+prevent	2
+undoing	1
+kill	1
+murder	1
+grunted	4
+grunt	1
+expressing	1
+snout	1
+also	4
+extremely	2
+sobbing	3
+seriously	1
+sobbed	1
+neither	2
+less	4
+carry	2
+relieved	1
+trot	1
+dreadfully	6
+ugly	2
+handsome	1
+startled	2
+seeing	1
+bough	1
+yards	1
+natured	1
+teeth	1
+treated	1
+respect	1
+puss	1
+wider	1
+depends	2
+explanation	4
+denied	2
+waving	5
+hatter	56
+hare	31
+visit	3
+mad	15
+grant	1
+growls	1
+wags	1
+wag	1
+therefore	1
+growling	1
+invited	2
+happening	1
+became	2
+appear	3
+hatters	1
+raving	2
+branch	1
+fig	1
+appearing	2
+vanishing	1
+giddy	2
+ending	2
+farther	1
+chimneys	1
+thatched	1
+raised	2
+towards	1
+instead	3
+vii	1
+front	2
+dormouse	40
+fast	4
+asleep	8
+using	6
+cushion	2
+resting	2
+elbows	1
+chair	1
+wine	2
+civil	3
+laid	2
+wants	2
+cutting	1
+personal	2
+severity	1
+rude	2
+wide	3
+raven	1
+writing	9
+desk	1
+fun	3
+riddles	2
+breathe	3
+ravens	1
+desks	1
+break	2
+month	2
+uneasily	2
+fourth	1
+butter	9
+works	33
+meekly	2
+crumbs	4
+grumbled	1
+bread	7
+gloomily	1
+cup	2
+shoulder	4
+tells	2
+clock	5
+year	2
+readily	1
+stays	1
+poured	1
+riddle	1
+slightest	1
+wearily	1
+waste	1
+answers	1
+cautiously	3
+music	3
+accounts	1
+twinkling	4
+mournfully	1
+quarrelled	1
+spoon	2
+concert	2
+given	2
+hearts	8
+sing	6
+twinkle	8
+fly	3
+tray	1
+pinch	2
+bawled	1
+murdering	1
+exclaimed	6
+mournful	1
+sigh	4
+wash	2
+whiles	1
+interrupted	9
+yawning	2
+vote	1
+lady	3
+alarmed	1
+proposal	1
+wake	2
+pinched	2
+fellows	1
+sisters	2
+names	2
+elsie	1
+lacie	1
+tillie	1
+lived	3
+bottom	4
+interest	1
+eating	1
+drinking	1
+treacle	7
+ill	2
+ways	2
+living	2
+opinion	1
+triumphantly	2
+helped	1
+sh	2
+sulkily	2
+interrupt	1
+consented	1
+learning	2
+promise	1
+clean	1
+unwillingly	1
+upset	3
+jug	1
+offend	1
+eh	1
+choosing	1
+interrupting	2
+rubbing	2
+manner	2
+begins	4
+closed	2
+doze	1
+woke	1
+traps	1
+moon	1
+memory	1
+muchness	3
+drawing	1
+rudeness	1
+disgust	1
+teapot	1
+stupidest	1
+leading	1
+today	1
+unlocking	1
+flower	2
+viii	1
+rose	4
+entrance	1
+roses	3
+gardeners	8
+painting	2
+paint	1
+jogged	1
+blame	1
+deserved	1
+beheaded	3
+spoken	1
+tulip	1
+onions	1
+flung	1
+brush	1
+unjust	1
+chanced	1
+watching	3
+checked	3
+afore	1
+themselves	3
+flat	2
+faces	5
+eager	3
+soldiers	10
+carrying	2
+clubs	1
+oblong	1
+corners	1
+courtiers	2
+ornamented	2
+diamonds	1
+royal	2
+merrily	1
+couples	1
+guests	3
+mostly	2
+kings	1
+queens	1
+recognised	1
+noticing	1
+knave	9
+king	63
+crimson	2
+velvet	1
+procession	5
+doubtful	2
+lie	2
+rule	5
+processions	1
+opposite	1
+smiled	2
+idiot	1
+majesty	12
+pack	5
+cards	3
+needn	3
+rosetree	1
+pattern	1
+backs	1
+glaring	1
+beast	1
+consider	4
+bowing	1
+humble	1
+knee	5
+meanwhile	1
+examining	1
+remaining	2
+execute	1
+unfortunate	3
+protection	1
+pot	1
+marched	1
+evidently	1
+roared	1
+fine	2
+peeping	1
+hush	3
+whispered	5
+execution	3
+boxed	1
+scream	2
+laughter	1
+places	2
+thunder	1
+ridges	1
+furrows	1
+balls	1
+hedgehogs	3
+mallets	1
+flamingoes	2
+double	1
+arches	4
+chief	2
+managing	1
+flamingo	5
+body	2
+tucked	3
+comfortably	1
+straightened	1
+hedgehog	7
+expression	1
+bursting	1
+laughing	2
+provoking	1
+unrolled	2
+act	1
+crawling	1
+ridge	1
+furrow	1
+send	2
+doubled	1
+parts	1
+players	4
+played	1
+turns	3
+quarrelling	2
+fighting	1
+furious	1
+stamping	2
+shouting	2
+uneasy	1
+dispute	2
+beheading	1
+alive	3
+appearance	1
+nodded	1
+account	1
+someone	1
+fairly	1
+complaining	1
+quarrel	1
+oneself	1
+attends	1
+arch	1
+croqueted	1
+win	1
+finishing	1
+friend	3
+kiss	1
+likes	1
+impertinent	1
+removed	4
+passing	1
+settling	1
+difficulties	1
+executioner	6
+screaming	1
+search	2
+engaged	1
+fight	2
+croqueting	1
+helpless	1
+collected	2
+appealed	1
+settle	1
+arguments	1
+unless	6
+weren	1
+anxious	3
+prison	1
+arrow	1
+fading	1
+entirely	2
+disappeared	2
+wildly	2
+ix	1
+mock	56
+turtle	59
+affectionately	1
+pleasant	1
+hopeful	1
+tempered	2
+vinegar	1
+sour	1
+camomile	1
+bitter	1
+barley	1
+sugar	2
+sweet	1
+stingy	1
+forget	2
+moral	8
+hasn	2
+tut	2
+squeezed	1
+closer	1
+keeping	4
+uncomfortably	1
+bore	1
+tis	5
+minding	1
+morals	1
+waist	1
+experiment	2
+bite	2
+mustard	3
+feather	1
+flock	1
+mineral	1
+agree	11
+attended	1
+vegetable	1
+imagine	2
+cheap	1
+birthday	1
+dig	1
+worried	1
+died	1
+favourite	1
+linked	2
+hers	4
+tremble	1
+thunderstorm	1
+fair	1
+warning	1
+choice	2
+absence	1
+shade	1
+delay	1
+whom	2
+sentenced	1
+custody	2
+company	1
+pardoned	1
+executions	2
+gryphon	55
+sun	2
+picture	1
+lazy	1
+leaving	1
+rubbed	1
+watched	2
+chuckled	1
+executes	1
+ledge	1
+rock	1
+heart	2
+pitied	1
+sorrow	2
+hollow	1
+occasional	1
+exclamation	1
+hjckrrh	1
+heavy	2
+calmly	1
+school	6
+tortoise	3
+sink	1
+mayn	1
+educations	1
+proud	2
+extras	1
+learned	1
+relief	2
+ours	1
+extra	1
+afford	1
+regular	2
+inquired	1
+reeling	1
+writhing	1
+arithmetic	1
+ambition	1
+distraction	1
+uglification	2
+derision	1
+lifted	1
+uglifying	1
+beautify	1
+prettier	1
+uglify	1
+simpleton	1
+encouraged	1
+mystery	2
+counting	1
+subjects	1
+flappers	1
+ancient	1
+modern	1
+seaography	1
+drawling	3
+conger	1
+week	3
+fainting	1
+coils	1
+stiff	1
+classics	1
+grief	1
+hid	1
+lessen	1
+eleventh	1
+holiday	1
+twelfth	1
+games	1
+x	1
+lobster	7
+quadrille	4
+flapper	1
+sobs	4
+bone	1
+punching	1
+recovered	2
+cheeks	1
+introduced	1
+delightful	2
+dance	13
+form	5
+lines	1
+seals	1
+turtles	2
+salmon	1
+cleared	1
+jelly	1
+advance	3
+partner	1
+partners	1
+lobsters	7
+retire	1
+bound	3
+capering	1
+yelled	1
+land	1
+figure	3
+dropping	1
+pretty	1
+dancing	2
+treading	2
+toes	3
+forepaws	1
+mark	3
+whiting	8
+snail	3
+porpoise	4
+shingle	1
+join	9
+askance	1
+thanked	1
+kindly	2
+scaly	1
+england	1
+france	1
+beloved	1
+dinn	2
+tails	3
+mouths	4
+thrown	1
+shiny	1
+blacking	1
+soles	1
+eels	1
+shrimp	1
+thoughts	2
+obliged	3
+journey	1
+purpose	3
+impatient	1
+explanations	1
+gained	1
+listeners	1
+part	6
+sluggard	1
+baked	1
+eyelids	1
+trims	1
+belt	1
+buttons	1
+editions	6
+follows	3
+sands	1
+gay	1
+lark	1
+contemptuous	1
+tones	2
+shark	1
+tide	1
+rises	1
+sharks	1
+around	3
+tremulous	1
+uncommon	1
+explained	1
+persisted	2
+disobey	1
+owl	3
+panther	3
+sharing	2
+pie	3
+crust	1
+gravy	1
+meat	1
+share	2
+treat	1
+boon	1
+permitted	3
+received	6
+fork	1
+banquet	1
+hm	1
+accounting	1
+tastes	1
+rich	1
+tureen	1
+dainties	1
+evening	5
+beau	4
+ootiful	4
+soo	7
+oop	7
+e	29
+cares	2
+pennyworth	2
+beauti	1
+ful	1
+panted	1
+faintly	1
+breeze	1
+xi	1
+stole	2
+tarts	7
+seated	1
+throne	1
+arrived	1
+standing	1
+chains	1
+soldier	1
+guard	1
+trumpet	3
+scroll	2
+parchment	2
+court	18
+refreshments	1
+pass	1
+justice	1
+wig	2
+wore	1
+frontispiece	1
+comfortable	1
+becoming	1
+jurors	4
+rightly	1
+men	1
+slates	8
+indignant	1
+spectacles	3
+spell	1
+neighbour	1
+muddle	1
+pencil	2
+squeaked	1
+quickly	2
+juror	1
+herald	1
+accusation	1
+blew	2
+blasts	2
+summer	2
+verdict	4
+witness	10
+teacup	3
+sent	3
+fourteenth	1
+fifteenth	1
+sixteenth	1
+wrote	3
+dates	1
+reduced	1
+shillings	1
+pence	1
+hat	1
+stolen	1
+memorandum	1
+fidgeted	1
+evidence	7
+spot	1
+encourage	1
+shifting	1
+remain	2
+squeeze	1
+boldly	1
+reasonable	2
+pace	1
+ridiculous	1
+fashion	2
+officers	4
+list	3
+singers	2
+thin	1
+dunce	1
+twinkled	1
+deny	2
+denies	1
+miserable	2
+speaker	1
+suppressed	4
+canvas	1
+bag	1
+tied	1
+strings	1
+newspapers	1
+trials	1
+attempts	1
+applause	1
+understood	1
+lower	1
+officer	1
+examine	2
+folding	1
+collar	1
+shrieked	1
+behead	1
+suppress	1
+undertone	2
+ache	1
+fumbled	1
+xii	1
+flurry	1
+tipped	1
+skirt	1
+upsetting	1
+jurymen	4
+sprawling	1
+reminding	1
+globe	1
+goldfish	2
+accidentally	1
+dismay	1
+accident	2
+vague	1
+die	1
+cannot	5
+emphasis	1
+haste	1
+downwards	1
+unable	1
+signifies	1
+shock	1
+pencils	1
+diligently	1
+overcome	1
+gazing	1
+unimportant	5
+respectful	1
+note	2
+cackled	1
+forty	1
+persons	1
+mile	2
+invented	1
+oldest	1
+prisoner	2
+directed	2
+verses	4
+handwriting	1
+queerest	1
+imitated	1
+prove	1
+signed	2
+sign	1
+mischief	1
+honest	1
+clapping	1
+proves	2
+guilt	1
+push	1
+returned	2
+involved	1
+affair	1
+trusts	1
+fit	3
+obstacle	1
+ourselves	1
+secret	1
+sixpence	1
+atom	2
+attempted	1
+saves	1
+spreading	1
+cardboard	1
+clearer	1
+fits	1
+furiously	1
+inkstand	1
+ink	1
+trickling	1
+pun	1
+twentieth	1
+purple	1
+flying	1
+brushing	1
+fluttered	1
+kissed	1
+wonderful	2
+setting	1
+dreaming	1
+dreamed	1
+clasped	1
+toss	1
+listened	1
+rustled	1
+splashed	1
+neighbouring	1
+rattle	1
+teacups	2
+shared	2
+meal	1
+crashed	1
+choking	1
+believed	1
+reality	1
+rustling	1
+rippling	1
+reeds	1
+tinkling	1
+sheep	1
+bells	1
+cries	1
+shepherd	1
+noises	1
+clamour	1
+farm	1
+yard	1
+lowing	1
+cattle	1
+lastly	1
+pictured	1
+riper	1
+years	2
+loving	1
+childhood	1
+gather	1
+sorrows	1
+joys	1
+remembering	1
+happy	1
+file	2
+named	1
+txt	1
+zip	1
+associated	8
+files	2
+formats	2
+http	8
+replace	1
+previous	1
+renamed	1
+creating	4
+public	9
+domain	8
+print	1
+owns	2
+united	10
+states	14
+copyright	14
+foundation	25
+distribute	6
+permission	7
+paying	2
+royalties	2
+special	1
+forth	8
+apply	1
+copying	4
+distributing	7
+tm	57
+electronic	27
+protect	2
+concept	2
+trademark	11
+registered	2
+charge	6
+ebooks	7
+receive	3
+specific	1
+copies	7
+complying	3
+creation	1
+derivative	3
+reports	1
+performances	1
+research	2
+modified	1
+practically	1
+redistribution	2
+especially	1
+commercial	1
+mission	4
+promoting	2
+distribution	6
+phrase	4
+comply	6
+available	2
+section	7
+redistributing	2
+indicate	1
+accept	1
+intellectual	2
+property	2
+agreement	18
+cease	1
+return	3
+destroy	2
+possession	1
+paid	6
+fee	8
+obtaining	2
+access	10
+obtain	3
+refund	10
+entity	3
+paragraph	11
+b	3
+lot	1
+preserve	1
+future	3
+literary	13
+archive	13
+pglaf	8
+compilation	1
+collection	4
+individual	4
+located	4
+claim	1
+performing	3
+displaying	4
+based	2
+references	2
+support	4
+freely	4
+compliance	5
+format	4
+attached	1
+laws	8
+govern	1
+countries	1
+check	2
+addition	1
+downloading	1
+representations	1
+concerning	2
+status	4
+following	3
+active	2
+links	3
+prominently	2
+appears	1
+accessed	1
+displayed	1
+performed	1
+viewed	1
+copied	2
+distributed	4
+derived	1
+contain	2
+indicating	1
+posted	5
+holder	4
+fees	4
+providing	4
+requirements	4
+paragraphs	3
+additional	4
+imposed	1
+unlink	1
+detach	1
+remove	1
+containing	1
+display	1
+perform	1
+redistribute	1
+convert	1
+binary	1
+compressed	1
+nonproprietary	1
+proprietary	1
+including	8
+processing	1
+hypertext	1
+provide	7
+plain	2
+vanilla	2
+ascii	2
+official	3
+version	1
+web	6
+site	4
+expense	1
+user	3
+exporting	1
+request	1
+original	1
+alternate	1
+include	1
+specified	2
+viewing	1
+provided	4
+pay	1
+royalty	3
+gross	1
+profits	1
+derive	1
+calculated	1
+method	1
+calculate	1
+applicable	3
+taxes	1
+owed	1
+owner	5
+agreed	1
+donate	4
+payments	3
+prepare	2
+legally	1
+required	1
+periodic	1
+tax	6
+returns	1
+address	1
+information	8
+donations	15
+money	3
+notifies	1
+mail	1
+receipt	2
+require	1
+possessed	1
+physical	2
+medium	5
+discontinue	1
+accordance	2
+f	11
+replacement	5
+defect	3
+discovered	1
+reported	1
+group	1
+michael	2
+hart	2
+contact	4
+volunteers	6
+employees	2
+expend	1
+considerable	2
+effort	2
+identify	1
+transcribe	1
+proofread	1
+despite	1
+efforts	3
+stored	1
+defects	1
+limited	5
+incomplete	1
+inaccurate	1
+corrupt	1
+data	1
+transcription	1
+errors	1
+infringement	1
+defective	3
+damaged	1
+disk	1
+computer	2
+virus	1
+codes	1
+damage	2
+equipment	3
+warranty	2
+disclaimer	3
+damages	4
+described	1
+disclaim	1
+liability	3
+costs	2
+expenses	2
+legal	2
+negligence	1
+strict	1
+breach	2
+contract	1
+distributor	1
+liable	1
+actual	1
+direct	1
+indirect	1
+consequential	1
+punitive	1
+incidental	1
+possibility	1
+discover	1
+receiving	1
+elect	1
+lieu	2
+electronically	2
+choose	1
+demand	1
+opportunities	1
+problem	1
+warranties	3
+express	1
+implied	2
+merchantibility	1
+fitness	1
+disclaimers	1
+exclusion	1
+limitation	3
+types	1
+violates	1
+interpreted	1
+maximum	1
+invalidity	1
+unenforceability	1
+provision	1
+void	1
+provisions	1
+indemnity	1
+indemnify	1
+agent	1
+employee	1
+production	1
+promotion	1
+harmless	1
+arise	1
+indirectly	1
+occur	1
+alteration	1
+modification	1
+additions	1
+deletions	1
+synonymous	1
+readable	2
+widest	2
+variety	1
+computers	2
+obsolete	1
+aged	1
+exists	1
+hundreds	1
+walks	1
+financial	1
+assistance	1
+need	1
+critical	1
+goals	1
+ensuring	1
+generations	2
+created	2
+secure	1
+permanent	1
+sections	1
+page	2
+non	1
+profit	1
+educational	1
+corporation	1
+organized	1
+mississippi	1
+granted	1
+exempt	2
+internal	1
+revenue	1
+service	1
+ein	1
+federal	2
+identification	1
+fundraising	1
+contributions	2
+deductible	1
+extent	1
+u	3
+principal	1
+office	2
+melan	1
+dr	2
+fairbanks	1
+ak	1
+scattered	1
+throughout	1
+numerous	1
+locations	2
+north	1
+west	1
+lake	1
+city	1
+ut	1
+email	3
+gregory	1
+newby	1
+executive	1
+director	1
+gbnewby	1
+survive	1
+increasing	1
+licensed	1
+machine	1
+accessible	1
+array	1
+outdated	1
+particularly	1
+maintaining	1
+irs	1
+committed	1
+regulating	1
+charities	1
+charitable	1
+uniform	1
+paperwork	1
+solicit	2
+confirmation	1
+determine	1
+solicitation	1
+prohibition	1
+accepting	1
+unsolicited	1
+donors	1
+approach	1
+offers	1
+international	1
+gratefully	1
+accepted	2
+statements	1
+treatment	1
+swamp	1
+staff	1
+pages	1
+current	1
+donation	1
+methods	1
+addresses	1
+checks	1
+credit	1
+card	1
+professor	1
+originator	1
+library	1
+thirty	1
+network	1
+volunteer	1
+confirmed	1
+thus	1
+necessarily	1
+main	1
+pg	1
+facility	1
+includes	1
+produce	1
+subscribe	1
+newsletter	1
